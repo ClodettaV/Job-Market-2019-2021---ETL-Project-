@@ -1,0 +1,29 @@
+job_title
+-
+job_id SERIAL PK
+job_title VARCHAR PK
+
+state
+-
+job_id SERIAL FK >- job_title.job_id
+state VARCHAR
+
+programming_languages
+-
+job_id SERIAL FK >- job_title.job_id
+R INT	
+Matlab INT	
+Python INT	
+Javascript INT	
+SQL_Spark INT
+Tableau INT
+C INT
+Java INT
+Ruby INT
+
+work_type
+-
+job_id SERIAL PK FK >- job_title.job_id
+jobClassification VARCHAR
+jobSubClassification VARCHAR
+work_typ VARCHAR
