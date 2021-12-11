@@ -5,15 +5,16 @@ def test_my_function():
 
     # ASSEMBLE 
     input_df = pd.DataFrame({
-        "id": [1,2],
-        "jobtitle1": ["Business Analyst","POWERbi ANALYST"], 
-        "jobtitle2": ["data scientist","data scientist/data analyst"]
+        "id": [1,2,3,4],
+        "jobTitle": ["Business Analyst","POWERbi ANALYST", "data scientist","data scientist/data analyst"],
+        "jobRole": ["", "","", ""]
+
     })
 
     expected_df = pd.DataFrame({
-        "id": [1,2], 
-        "jobtitle1": ["Data Analyst", "Data Analyst"], 
-        "jobtitle2": ["Data Scientist", "Data Scientist"]
+        "id": [1,2,3,4],
+        "jobTitle": ["business analyst","powerbi analyst", "data scientist","data scientist/data analyst"],
+        "jobRole": ["Data Analyst", "Data Analyst","Data Scientist", "Data Scientist"]
     })
 
     # ACT 
