@@ -1,11 +1,12 @@
 job_title
 -
-job_id SERIAL PK
+job_id INT PK
 job_title VARCHAR PK
+job_role
 
 state
 -
-job_id SERIAL FK >- job_title.job_id
+job_id INT FK >- job_title.job_id
 state VARCHAR
 
 programming_languages
@@ -24,6 +25,6 @@ Ruby INT
 work_type
 -
 job_id SERIAL PK FK >- job_title.job_id
-jobClassification VARCHAR
-jobSubClassification VARCHAR
+Industry VARCHAR
+Departments VARCHAR
 work_typ VARCHAR

@@ -1,0 +1,2858 @@
+,jobId,state
+0,38098375,New South Wales
+1,38259053,Australian Capital Territory
+2,38267899,New South Wales
+3,38267995,New South Wales
+4,38269206,New South Wales
+5,38269216,New South Wales
+6,38270740,New South Wales
+7,38272439,New South Wales
+8,38273974,Victoria
+9,38274601,New South Wales
+10,38278746,Australian Capital Territory
+11,38278747,Australian Capital Territory
+12,38280450,Australian Capital Territory
+13,38280451,Australian Capital Territory
+14,38282551,New South Wales
+15,38283702,Western Australia
+16,38284724,New South Wales
+17,38285286,New South Wales
+18,38285477,Victoria
+19,38288026,New South Wales
+20,38289785,Victoria
+21,38291214,New South Wales
+22,38299223,New South Wales
+23,38305435,Australian Capital Territory
+24,38305440,Queensland
+25,38305803,New South Wales
+26,38305983,New South Wales
+27,38306688,New South Wales
+28,38307963,New South Wales
+29,38314661,Victoria
+30,38314694,New South Wales
+31,38315204,New South Wales
+32,38315554,New South Wales
+33,38316571,New South Wales
+34,38318403,Australian Capital Territory
+35,38320662,Victoria
+36,38320858,New South Wales
+37,38322210,New South Wales
+38,38324346,New South Wales
+39,38324745,Australian Capital Territory
+40,38325029,New South Wales
+41,38326190,New South Wales
+42,38329034,New South Wales
+43,38331193,Victoria
+44,38331270,New South Wales
+45,38331485,Victoria
+46,38332258,Victoria
+47,38334247,New South Wales
+48,38335998,Victoria
+49,38337655,New South Wales
+50,38338855,Victoria
+51,38339334,Australian Capital Territory
+52,38339335,Australian Capital Territory
+53,38339474,Australian Capital Territory
+54,38339475,Australian Capital Territory
+55,38342340,Victoria
+56,38342422,Queensland
+57,38343393,Western Australia
+58,38347861,Victoria
+59,38350683,New South Wales
+60,38353752,New South Wales
+61,38353759,New South Wales
+62,38353809,New South Wales
+63,38362895,New South Wales
+64,38363396,New South Wales
+65,38363508,New South Wales
+66,38363660,New South Wales
+67,38363751,New South Wales
+68,38365859,Western Australia
+69,38366703,New South Wales
+70,38366878,New South Wales
+71,38372570,Victoria
+72,38376088,New South Wales
+73,38376565,New South Wales
+74,38376919,Victoria
+75,38377852,New South Wales
+76,38378406,Victoria
+77,38380671,New South Wales
+78,38383430,New South Wales
+79,38387405,New South Wales
+80,38387560,New South Wales
+81,38390470,New South Wales
+82,38391902,New South Wales
+83,38393969,Western Australia
+84,38400083,New South Wales
+85,38400254,Western Australia
+86,38403750,Australian Capital Territory
+87,38406493,Victoria
+88,38408709,Victoria
+89,38413087,New South Wales
+90,38414091,New South Wales
+91,38416895,Northern Territories
+92,38424264,Victoria
+93,38427134,New South Wales
+94,38435919,Victoria
+95,38437124,New South Wales
+96,38443865,New South Wales
+97,38443866,New South Wales
+98,38447004,Victoria
+99,38448100,Victoria
+100,38448110,Victoria
+101,38451658,New South Wales
+102,38452547,New South Wales
+103,38453505,Victoria
+104,38454683,New South Wales
+105,38455824,New South Wales
+106,38456114,New South Wales
+107,38458030,New South Wales
+108,38460327,South Australia
+109,38460336,Victoria
+110,38461297,New South Wales
+111,38461362,Victoria
+112,38461920,Victoria
+113,38463715,New South Wales
+114,38464880,Queensland
+115,38465272,New South Wales
+116,38468314,Victoria
+117,38470453,Queensland
+118,38470867,New South Wales
+119,38472025,Victoria
+120,38477448,Victoria
+121,38477464,Queensland
+122,38477474,New South Wales
+123,38477547,New South Wales
+124,38483932,Victoria
+125,38484869,New South Wales
+126,38487347,Victoria
+127,38487380,New South Wales
+128,38487437,Queensland
+129,38487720,New South Wales
+130,38488757,New South Wales
+131,38490404,Queensland
+132,38490423,Victoria
+133,38490810,New South Wales
+134,38492604,New South Wales
+135,38494885,Victoria
+136,38495208,Victoria
+137,38497216,New South Wales
+138,38497540,Victoria
+139,38500467,Queensland
+140,38500468,Queensland
+141,38502353,New South Wales
+142,38502572,New South Wales
+143,38503594,New South Wales
+144,38503756,South Australia
+145,38507417,Victoria
+146,38508350,New South Wales
+147,38508883,Australian Capital Territory
+148,38508909,Australian Capital Territory
+149,38509159,Victoria
+150,38510416,Australian Capital Territory
+151,38512905,Australian Capital Territory
+152,38513017,Australian Capital Territory
+153,38513440,Victoria
+154,38513493,Australian Capital Territory
+155,38513903,Queensland
+156,38514125,Victoria
+157,38514541,Queensland
+158,38514752,New South Wales
+159,38516648,Tasmania
+160,38516649,Tasmania
+161,38516691,Victoria
+162,38516905,Queensland
+163,38516956,New South Wales
+164,38517767,New South Wales
+165,38517976,New South Wales
+166,38518570,Australian Capital Territory
+167,38518667,Queensland
+168,38519752,Western Australia
+169,38520146,Victoria
+170,38520402,Victoria
+171,38520425,New South Wales
+172,38520862,Victoria
+173,38520932,Queensland
+174,38523222,Australian Capital Territory
+175,38523726,Victoria
+176,38526989,New South Wales
+177,38535222,Queensland
+178,38535411,New South Wales
+179,38537973,Australian Capital Territory
+180,38537974,Australian Capital Territory
+181,38540886,New South Wales
+182,38540887,New South Wales
+183,38542288,New South Wales
+184,38542822,New South Wales
+185,38544594,New South Wales
+186,38544742,New South Wales
+187,38547260,Western Australia
+188,38547389,Victoria
+189,38547503,Victoria
+190,38549522,New South Wales
+191,38551256,Queensland
+192,38552087,Victoria
+193,38555954,Australian Capital Territory
+194,38556033,Australian Capital Territory
+195,38556208,Australian Capital Territory
+196,38556593,Australian Capital Territory
+197,38556858,Australian Capital Territory
+198,38557632,Australian Capital Territory
+199,38557703,Australian Capital Territory
+200,38557768,Australian Capital Territory
+201,38560763,Queensland
+202,38561225,Queensland
+203,38563152,Western Australia
+204,38564258,New South Wales
+205,38564366,New South Wales
+206,38565311,Queensland
+207,38565312,Queensland
+208,38567310,New South Wales
+209,38575855,Victoria
+210,38578631,Victoria
+211,38579276,New South Wales
+212,38579658,Australian Capital Territory
+213,38580429,South Australia
+214,38584443,New South Wales
+215,38585384,Victoria
+216,38587859,Victoria
+217,38587951,Victoria
+218,38590660,Western Australia
+219,38593234,New South Wales
+220,38594055,New South Wales
+221,38595275,Victoria
+222,38604629,New South Wales
+223,38604706,New South Wales
+224,38605485,New South Wales
+225,38605486,New South Wales
+226,38605978,Victoria
+227,38611243,New South Wales
+228,38611983,New South Wales
+229,38614543,New South Wales
+230,38614567,Western Australia
+231,38616110,South Australia
+232,38618566,New South Wales
+233,38619214,Western Australia
+234,38623164,Victoria
+235,38623838,Western Australia
+236,38627600,New South Wales
+237,38631105,New South Wales
+238,38632917,New South Wales
+239,38633126,Queensland
+240,38633230,Victoria
+241,38641856,South Australia
+242,38642611,Victoria
+243,38642612,Victoria
+244,38644875,Australian Capital Territory
+245,38648773,Victoria
+246,38648941,Victoria
+247,38648949,Queensland
+248,38650280,New South Wales
+249,38651049,South Australia
+250,38651082,Queensland
+251,38651083,South Australia
+252,38651167,New South Wales
+253,38651355,Victoria
+254,38651465,Queensland
+255,38651641,Queensland
+256,38651832,South Australia
+257,38651833,South Australia
+258,38653064,South Australia
+259,38653065,South Australia
+260,38658689,Queensland
+261,38659209,Victoria
+262,38659675,Queensland
+263,38664552,Victoria
+264,38664969,Victoria
+265,38667725,Victoria
+266,38675867,Western Australia
+267,38676374,Victoria
+268,38680411,New South Wales
+269,38683694,New South Wales
+270,38686065,Victoria
+271,38687490,Queensland
+272,38687491,Queensland
+273,38688485,Victoria
+274,38689890,Victoria
+275,38692371,Victoria
+276,38693720,New South Wales
+277,38700507,South Australia
+278,38702873,New South Wales
+279,38702874,New South Wales
+280,38704207,New South Wales
+281,38706970,New South Wales
+282,38707083,New South Wales
+283,38707473,South Australia
+284,38708722,South Australia
+285,38709784,New South Wales
+286,38710913,Victoria
+287,38710980,New South Wales
+288,38711931,Queensland
+289,38715031,Western Australia
+290,38715500,Victoria
+291,38718897,Victoria
+292,38719373,New South Wales
+293,38719428,New South Wales
+294,38721871,Victoria
+295,38722126,Victoria
+296,38725000,New South Wales
+297,38729084,New South Wales
+298,38735235,New South Wales
+299,38736094,Victoria
+300,38736412,Victoria
+301,38736413,Victoria
+302,38736414,Victoria
+303,38736952,Victoria
+304,38739169,South Australia
+305,38741831,New South Wales
+306,38744632,New South Wales
+307,38744785,New South Wales
+308,38746607,New South Wales
+309,38749804,New South Wales
+310,38749967,New South Wales
+311,38750108,Victoria
+312,38750307,Victoria
+313,38750624,Victoria
+314,38752630,Victoria
+315,38752749,Western Australia
+316,38756852,Victoria
+317,38758986,Victoria
+318,38760432,New South Wales
+319,38762470,Victoria
+320,38764886,New South Wales
+321,38766803,Western Australia
+322,38767227,Australian Capital Territory
+323,38767887,Victoria
+324,38768173,New South Wales
+325,38770092,Australian Capital Territory
+326,38770787,Victoria
+327,38774798,New South Wales
+328,38777022,New South Wales
+329,38789722,New South Wales
+330,38795577,Queensland
+331,38796138,New South Wales
+332,38796139,New South Wales
+333,38796140,New South Wales
+334,38796392,New South Wales
+335,38798441,New South Wales
+336,38798970,New South Wales
+337,38799031,Victoria
+338,38803844,Victoria
+339,38804349,Victoria
+340,38805430,New South Wales
+341,38805721,New South Wales
+342,38805741,Victoria
+343,38805840,Victoria
+344,38808767,New South Wales
+345,38815307,New South Wales
+346,38817802,Australian Capital Territory
+347,38818174,Western Australia
+348,38818195,New South Wales
+349,38818833,New South Wales
+350,38828933,New South Wales
+351,38829396,New South Wales
+352,38830644,Victoria
+353,38830645,Victoria
+354,38830649,Victoria
+355,38831823,Queensland
+356,38835912,New South Wales
+357,38838937,New South Wales
+358,38839338,New South Wales
+359,38839410,New South Wales
+360,38839638,New South Wales
+361,38847502,New South Wales
+362,38848619,Victoria
+363,38849034,South Australia
+364,38849329,Victoria
+365,38851805,New South Wales
+366,38852611,New South Wales
+367,38852613,New South Wales
+368,38853850,New South Wales
+369,38855545,New South Wales
+370,38855864,New South Wales
+371,38857057,New South Wales
+372,38861824,New South Wales
+373,38866965,New South Wales
+374,38867666,South Australia
+375,38868348,New South Wales
+376,38869070,New South Wales
+377,38869528,Queensland
+378,38873206,New South Wales
+379,38874128,Queensland
+380,38874136,Victoria
+381,38875704,Victoria
+382,38876502,New South Wales
+383,38879547,Victoria
+384,38882017,Victoria
+385,38883306,New South Wales
+386,38885317,New South Wales
+387,38885501,Queensland
+388,38886857,New South Wales
+389,38886867,New South Wales
+390,38890886,Queensland
+391,38892320,Queensland
+392,38893132,New South Wales
+393,38893158,New South Wales
+394,38894337,New South Wales
+395,38897424,New South Wales
+396,38897816,New South Wales
+397,38899737,Western Australia
+398,38899756,Western Australia
+399,38899771,New South Wales
+400,38906778,New South Wales
+401,38906779,New South Wales
+402,38908453,New South Wales
+403,38909696,Victoria
+404,38909870,Victoria
+405,38911655,New South Wales
+406,38915192,New South Wales
+407,38915484,New South Wales
+408,38915564,Victoria
+409,38916319,New South Wales
+410,38916532,Victoria
+411,38917657,South Australia
+412,38919426,New South Wales
+413,38919636,South Australia
+414,38920351,Victoria
+415,38921056,Victoria
+416,38921061,Victoria
+417,38921156,New South Wales
+418,38921171,New South Wales
+419,38922397,Victoria
+420,38924510,Victoria
+421,38924593,New South Wales
+422,38930195,Victoria
+423,38931338,New South Wales
+424,38931350,New South Wales
+425,38933178,Victoria
+426,38933283,New South Wales
+427,38935316,New South Wales
+428,38938066,New South Wales
+429,38941227,New South Wales
+430,38941355,Australian Capital Territory
+431,38941420,New South Wales
+432,38942546,Victoria
+433,38942590,Victoria
+434,38950066,New South Wales
+435,38950559,New South Wales
+436,38951001,New South Wales
+437,38951002,New South Wales
+438,38953775,Victoria
+439,38953810,Victoria
+440,38961336,New South Wales
+441,38964236,Victoria
+442,38964237,Victoria
+443,38964238,Victoria
+444,38965296,Australian Capital Territory
+445,38965720,Victoria
+446,38965945,Victoria
+447,38966918,Victoria
+448,38971245,New South Wales
+449,38979354,New South Wales
+450,38985921,New South Wales
+451,38986941,New South Wales
+452,38989528,New South Wales
+453,38989654,New South Wales
+454,38991456,New South Wales
+455,38992181,New South Wales
+456,38993976,Queensland
+457,38994117,New South Wales
+458,38994813,Victoria
+459,38995013,Victoria
+460,38996533,Victoria
+461,38996877,New South Wales
+462,39001289,Victoria
+463,39003239,Queensland
+464,39004454,New South Wales
+465,39009648,New South Wales
+466,39009709,New South Wales
+467,39009765,New South Wales
+468,39010229,Victoria
+469,39012210,New South Wales
+470,39012654,Queensland
+471,39019961,Victoria
+472,39022830,New South Wales
+473,39023094,New South Wales
+474,39024726,New South Wales
+475,39026098,Victoria
+476,39029403,Victoria
+477,39030781,New South Wales
+478,39030873,New South Wales
+479,39033721,Victoria
+480,39033790,New South Wales
+481,39036850,New South Wales
+482,39046542,Australian Capital Territory
+483,39046572,Australian Capital Territory
+484,39051862,New South Wales
+485,39054569,New South Wales
+486,39055489,New South Wales
+487,39057225,Victoria
+488,39057470,New South Wales
+489,39061543,Queensland
+490,39061551,Queensland
+491,39069504,Victoria
+492,39071671,New South Wales
+493,39071858,Victoria
+494,39074357,Victoria
+495,39075857,New South Wales
+496,39083043,New South Wales
+497,39084774,New South Wales
+498,39086749,New South Wales
+499,39088044,South Australia
+500,39088240,New South Wales
+501,39092609,New South Wales
+502,39096402,South Australia
+503,39099697,New South Wales
+504,39102215,New South Wales
+505,39102266,Western Australia
+506,39103908,New South Wales
+507,39104457,New South Wales
+508,39111458,New South Wales
+509,39111682,New South Wales
+510,39112990,Victoria
+511,39116037,New South Wales
+512,39116166,Victoria
+513,39116453,New South Wales
+514,39118700,Victoria
+515,39125717,Victoria
+516,39126288,New South Wales
+517,39126609,New South Wales
+518,39134074,New South Wales
+519,39140141,New South Wales
+520,39140204,Australian Capital Territory
+521,39140229,Australian Capital Territory
+522,39140305,New South Wales
+523,39140322,Victoria
+524,39140585,New South Wales
+525,39140937,Australian Capital Territory
+526,39141068,Victoria
+527,39141434,New South Wales
+528,39141490,New South Wales
+529,39142029,Victoria
+530,39142169,Australian Capital Territory
+531,39142189,Australian Capital Territory
+532,39142224,New South Wales
+533,39142341,Victoria
+534,39142342,Australian Capital Territory
+535,39142599,Victoria
+536,39143877,New South Wales
+537,39144208,Australian Capital Territory
+538,39144294,New South Wales
+539,39144344,Australian Capital Territory
+540,39144701,Australian Capital Territory
+541,39144969,New South Wales
+542,39145155,Victoria
+543,39145309,Queensland
+544,39145310,Queensland
+545,39145517,New South Wales
+546,39145623,New South Wales
+547,39145625,New South Wales
+548,39145632,Victoria
+549,39145656,Australian Capital Territory
+550,39147769,New South Wales
+551,39147918,Queensland
+552,39148453,New South Wales
+553,39149308,Australian Capital Territory
+554,39150122,Australian Capital Territory
+555,39150236,Australian Capital Territory
+556,39150812,New South Wales
+557,39152884,Victoria
+558,39153584,Victoria
+559,39154386,New South Wales
+560,39154780,New South Wales
+561,39154922,New South Wales
+562,39155311,New South Wales
+563,39155479,New South Wales
+564,39155701,Victoria
+565,39156336,South Australia
+566,39157947,New South Wales
+567,39157949,Victoria
+568,39158078,New South Wales
+569,39158413,New South Wales
+570,39158585,New South Wales
+571,39159087,Western Australia
+572,39161483,New South Wales
+573,39162694,New South Wales
+574,39166001,Queensland
+575,39166512,Australian Capital Territory
+576,39167724,New South Wales
+577,39172106,Queensland
+578,39176334,Western Australia
+579,39177105,Victoria
+580,39177129,New South Wales
+581,39177271,Australian Capital Territory
+582,39178317,New South Wales
+583,39179784,Victoria
+584,39180309,New South Wales
+585,39180838,New South Wales
+586,39183793,New South Wales
+587,39183848,Victoria
+588,39183880,Australian Capital Territory
+589,39186678,Victoria
+590,39186687,Victoria
+591,39186741,New South Wales
+592,39186804,New South Wales
+593,39187963,Victoria
+594,39190118,Queensland
+595,39191884,New South Wales
+596,39191925,Victoria
+597,39192458,Victoria
+598,39196114,Queensland
+599,39196324,Victoria
+600,39197077,Victoria
+601,39197483,New South Wales
+602,39203940,Victoria
+603,39204161,New South Wales
+604,39204776,Queensland
+605,39205273,Queensland
+606,39205446,New South Wales
+607,39205889,New South Wales
+608,39206086,New South Wales
+609,39206094,Victoria
+610,39209298,Victoria
+611,39209308,Queensland
+612,39212407,Victoria
+613,39212408,South Australia
+614,39212411,Queensland
+615,39216053,New South Wales
+616,39218629,New South Wales
+617,39219125,New South Wales
+618,39219128,New South Wales
+619,39219210,South Australia
+620,39219879,Queensland
+621,39219942,South Australia
+622,39221007,Victoria
+623,39221071,Victoria
+624,39221805,Western Australia
+625,39223406,New South Wales
+626,39223820,Victoria
+627,39224003,Victoria
+628,39224036,Victoria
+629,39224041,South Australia
+630,39227431,New South Wales
+631,39229533,Queensland
+632,39230754,Victoria
+633,39232719,New South Wales
+634,39236060,New South Wales
+635,39240169,Queensland
+636,39241688,New South Wales
+637,39245444,New South Wales
+638,39245501,New South Wales
+639,39248641,Victoria
+640,39252322,Victoria
+641,39252326,Victoria
+642,39254224,New South Wales
+643,39254526,New South Wales
+644,39254528,New South Wales
+645,39254545,New South Wales
+646,39255228,Victoria
+647,39255303,New South Wales
+648,39260102,New South Wales
+649,39262220,New South Wales
+650,39266120,New South Wales
+651,39268236,New South Wales
+652,39268326,New South Wales
+653,39270155,New South Wales
+654,39275873,New South Wales
+655,39277503,Victoria
+656,39278239,New South Wales
+657,39282251,Victoria
+658,39288310,Western Australia
+659,39291074,Victoria
+660,39291207,New South Wales
+661,39291438,New South Wales
+662,39291787,South Australia
+663,39291788,South Australia
+664,39291789,South Australia
+665,39292299,Victoria
+666,39292384,New South Wales
+667,39292682,New South Wales
+668,39292897,New South Wales
+669,39294524,New South Wales
+670,39295252,New South Wales
+671,39296567,New South Wales
+672,39298706,Victoria
+673,39302051,New South Wales
+674,39302916,New South Wales
+675,39308447,Victoria
+676,39310230,New South Wales
+677,39310483,South Australia
+678,39315659,Victoria
+679,39316966,New South Wales
+680,39317492,New South Wales
+681,39320277,New South Wales
+682,39320844,New South Wales
+683,39322804,New South Wales
+684,39324746,Queensland
+685,39329480,Queensland
+686,39330738,Victoria
+687,39342760,Victoria
+688,39347283,Queensland
+689,39351401,New South Wales
+690,39351643,New South Wales
+691,39352603,New South Wales
+692,39353101,Victoria
+693,39353950,New South Wales
+694,39357960,Western Australia
+695,39359556,Western Australia
+696,39360011,New South Wales
+697,39362977,Victoria
+698,39364101,New South Wales
+699,39365437,New South Wales
+700,39368506,Victoria
+701,39371825,Victoria
+702,39372682,New South Wales
+703,39372903,New South Wales
+704,39372927,Victoria
+705,39372972,New South Wales
+706,39373284,New South Wales
+707,39374197,Victoria
+708,39377012,New South Wales
+709,39382265,South Australia
+710,39386725,Victoria
+711,39388340,Victoria
+712,39388606,Western Australia
+713,39391818,New South Wales
+714,39400798,Victoria
+715,39402583,Victoria
+716,39402734,Victoria
+717,39403274,Western Australia
+718,39410828,New South Wales
+719,39413439,Western Australia
+720,39414041,New South Wales
+721,39414055,New South Wales
+722,39414056,Victoria
+723,39421100,Victoria
+724,39424514,Victoria
+725,39424515,Victoria
+726,39427602,Queensland
+727,39428384,Victoria
+728,39433699,New South Wales
+729,39435417,New South Wales
+730,39435522,Victoria
+731,39438096,Victoria
+732,39438979,New South Wales
+733,39440603,New South Wales
+734,39441014,New South Wales
+735,39443104,New South Wales
+736,39443418,Victoria
+737,39443952,New South Wales
+738,39450245,Australian Capital Territory
+739,39450246,Australian Capital Territory
+740,39450247,Australian Capital Territory
+741,39450248,Australian Capital Territory
+742,39454733,New South Wales
+743,39454967,New South Wales
+744,39455260,New South Wales
+745,39458124,New South Wales
+746,39462282,Australian Capital Territory
+747,39462317,New South Wales
+748,39462327,Victoria
+749,39464141,New South Wales
+750,39464148,New South Wales
+751,39470051,New South Wales
+752,39471655,New South Wales
+753,39476345,New South Wales
+754,39479722,New South Wales
+755,39486348,New South Wales
+756,39486485,Queensland
+757,39487481,Queensland
+758,39487835,South Australia
+759,39490627,New South Wales
+760,39493101,Western Australia
+761,39499015,New South Wales
+762,39502400,Western Australia
+763,39504971,New South Wales
+764,39505011,New South Wales
+765,39506145,New South Wales
+766,39510597,Queensland
+767,39511376,Victoria
+768,39512167,Victoria
+769,39514228,New South Wales
+770,39516156,New South Wales
+771,39522619,New South Wales
+772,39526651,Victoria
+773,39526953,Western Australia
+774,39527902,New South Wales
+775,39528038,New South Wales
+776,39530400,New South Wales
+777,39532015,New South Wales
+778,39534780,New South Wales
+779,39539616,Victoria
+780,39540960,New South Wales
+781,39541036,South Australia
+782,39541442,Victoria
+783,39546289,New South Wales
+784,39547287,Victoria
+785,39547865,New South Wales
+786,39547958,Victoria
+787,39548265,Western Australia
+788,39552271,New South Wales
+789,39552760,New South Wales
+790,39554259,Victoria
+791,39554532,Victoria
+792,39555876,New South Wales
+793,39555877,New South Wales
+794,39561937,New South Wales
+795,39566918,Victoria
+796,39579171,New South Wales
+797,39579517,New South Wales
+798,39581453,New South Wales
+799,39582387,New South Wales
+800,39582950,New South Wales
+801,39588910,New South Wales
+802,39589319,New South Wales
+803,39594690,New South Wales
+804,39595029,New South Wales
+805,39597982,New South Wales
+806,39604478,Western Australia
+807,39608595,Western Australia
+808,39609811,New South Wales
+809,39610260,Victoria
+810,39610701,New South Wales
+811,39611970,New South Wales
+812,39618050,Victoria
+813,39618066,Victoria
+814,39618787,Western Australia
+815,39623591,New South Wales
+816,39625838,New South Wales
+817,39632338,Victoria
+818,39633287,Queensland
+819,39633381,New South Wales
+820,39636499,Queensland
+821,39637531,New South Wales
+822,39639171,New South Wales
+823,39641804,New South Wales
+824,39646460,New South Wales
+825,39647567,Western Australia
+826,39649593,Queensland
+827,39655904,Victoria
+828,39658326,Western Australia
+829,39662401,South Australia
+830,39662563,South Australia
+831,39663151,New South Wales
+832,39663335,South Australia
+833,39663471,South Australia
+834,39667077,South Australia
+835,39670361,New South Wales
+836,39671892,New South Wales
+837,39679266,South Australia
+838,39679967,Victoria
+839,39687245,South Australia
+840,39688562,New South Wales
+841,39689196,New South Wales
+842,39694821,Australian Capital Territory
+843,39694822,Australian Capital Territory
+844,39695678,Western Australia
+845,39698445,New South Wales
+846,39705237,New South Wales
+847,39705392,New South Wales
+848,39705397,Victoria
+849,39708791,South Australia
+850,39709962,New South Wales
+851,39714828,New South Wales
+852,39715110,New South Wales
+853,39715111,Victoria
+854,39715761,Victoria
+855,39716585,Victoria
+856,39718591,Victoria
+857,39719426,Victoria
+858,39721130,Western Australia
+859,39722404,New South Wales
+860,39722544,Victoria
+861,39722545,Victoria
+862,39722844,Victoria
+863,39724164,New South Wales
+864,39724757,New South Wales
+865,39725532,Queensland
+866,39726579,Queensland
+867,39727047,New South Wales
+868,39727647,New South Wales
+869,39727665,New South Wales
+870,39728226,New South Wales
+871,39728543,New South Wales
+872,39734886,Victoria
+873,39735894,New South Wales
+874,39737771,New South Wales
+875,39742244,Western Australia
+876,39744582,Western Australia
+877,39746982,Queensland
+878,39747671,New South Wales
+879,39748267,New South Wales
+880,39748473,New South Wales
+881,39749523,Victoria
+882,39749532,Queensland
+883,39749542,New South Wales
+884,39749671,Victoria
+885,39752337,New South Wales
+886,39752938,New South Wales
+887,39764688,Queensland
+888,39767681,South Australia
+889,39772369,Queensland
+890,39773596,New South Wales
+891,39773731,New South Wales
+892,39777067,New South Wales
+893,39777806,Victoria
+894,39783711,Queensland
+895,39784320,UK & Ireland
+896,39788340,Australian Capital Territory
+897,39789450,Queensland
+898,39791917,Victoria
+899,39792182,Australian Capital Territory
+900,39792333,New South Wales
+901,39798278,New South Wales
+902,39799572,Victoria
+903,39806316,New South Wales
+904,39808480,Western Australia
+905,39808661,Victoria
+906,39809970,New South Wales
+907,39812212,Victoria
+908,39813042,New South Wales
+909,39814844,Queensland
+910,39815654,Queensland
+911,39818511,Victoria
+912,39822769,Western Australia
+913,39824008,New South Wales
+914,39827186,Victoria
+915,39827861,Victoria
+916,39828488,Western Australia
+917,39829827,Australian Capital Territory
+918,39829828,Australian Capital Territory
+919,39831418,New South Wales
+920,39831850,New South Wales
+921,39835014,Western Australia
+922,39839274,Western Australia
+923,39845243,Victoria
+924,39846386,Queensland
+925,39846748,New South Wales
+926,39848926,New South Wales
+927,39849654,New South Wales
+928,39857207,Victoria
+929,39858903,New South Wales
+930,39859094,New South Wales
+931,39861706,Western Australia
+932,39866010,Australian Capital Territory
+933,39866018,New South Wales
+934,39866680,Western Australia
+935,39866779,Western Australia
+936,39866895,Western Australia
+937,39867023,Australian Capital Territory
+938,39867841,Western Australia
+939,39867970,Western Australia
+940,39868160,Western Australia
+941,39868161,Australian Capital Territory
+942,39868162,New South Wales
+943,39868163,Queensland
+944,39868164,Victoria
+945,39870683,Australian Capital Territory
+946,39870758,Australian Capital Territory
+947,39873665,Victoria
+948,39873826,Victoria
+949,39874556,Victoria
+950,39876769,New South Wales
+951,39877843,Western Australia
+952,39878151,Australian Capital Territory
+953,39883354,Queensland
+954,39883451,Queensland
+955,39884387,New South Wales
+956,39887253,New South Wales
+957,39887761,New South Wales
+958,39890072,Victoria
+959,39891365,New South Wales
+960,39893833,New South Wales
+961,39894005,New South Wales
+962,39895172,New South Wales
+963,39899146,New South Wales
+964,39900158,New South Wales
+965,39900648,New South Wales
+966,39901198,Victoria
+967,39905301,New South Wales
+968,39906518,New South Wales
+969,39908193,Victoria
+970,39914362,New South Wales
+971,39915769,New South Wales
+972,39917154,Victoria
+973,39917331,Queensland
+974,39917711,Western Australia
+975,39918670,Western Australia
+976,39918873,New South Wales
+977,39919694,Victoria
+978,39923453,Victoria
+979,39925092,Victoria
+980,39925315,Queensland
+981,39925585,Victoria
+982,39928193,Victoria
+983,39930532,New South Wales
+984,39932924,Queensland
+985,39941890,New South Wales
+986,39942109,New South Wales
+987,39942139,Western Australia
+988,39951403,Queensland
+989,39954648,South Australia
+990,39955013,Victoria
+991,39961986,New South Wales
+992,39963958,Victoria
+993,39972422,New South Wales
+994,39974204,Victoria
+995,39975849,Victoria
+996,39979025,New South Wales
+997,39979161,New South Wales
+998,39980576,Victoria
+999,39980988,Victoria
+1000,39982982,New South Wales
+1001,39984687,Western Australia
+1002,39988046,New South Wales
+1003,39990213,New South Wales
+1004,39995247,Victoria
+1005,39995370,Queensland
+1006,39995692,Queensland
+1007,39996316,New South Wales
+1008,39998330,Victoria
+1009,40004251,Victoria
+1010,40004524,Western Australia
+1011,40005447,Victoria
+1012,40005621,Victoria
+1013,40008803,New South Wales
+1014,40009529,New South Wales
+1015,40010624,Australian Capital Territory
+1016,40010625,Australian Capital Territory
+1017,40012141,New South Wales
+1018,40013501,New South Wales
+1019,40014752,Western Australia
+1020,40016491,Western Australia
+1021,40018165,Victoria
+1022,40020893,Victoria
+1023,40020894,Victoria
+1024,40020943,New South Wales
+1025,40022548,New South Wales
+1026,40022618,Victoria
+1027,40025777,Queensland
+1028,40027694,New South Wales
+1029,40027893,Queensland
+1030,40031073,New South Wales
+1031,40034004,Victoria
+1032,40034126,Victoria
+1033,40036844,Western Australia
+1034,40036944,New South Wales
+1035,40045842,Victoria
+1036,40045911,New South Wales
+1037,40049016,New South Wales
+1038,40049039,New South Wales
+1039,40052195,Queensland
+1040,40052787,Western Australia
+1041,40053109,New South Wales
+1042,40059069,New South Wales
+1043,40059410,New South Wales
+1044,40064202,Victoria
+1045,40067252,New South Wales
+1046,40067480,Queensland
+1047,40067497,Victoria
+1048,40073238,South Australia
+1049,40075499,Victoria
+1050,40079584,South Australia
+1051,40084233,Queensland
+1052,40084577,Victoria
+1053,40086171,Victoria
+1054,40087387,New South Wales
+1055,40088467,New South Wales
+1056,40090873,New South Wales
+1057,40090959,New South Wales
+1058,40092412,New South Wales
+1059,40094609,Australian Capital Territory
+1060,40094646,New South Wales
+1061,40094699,Victoria
+1062,40094737,New South Wales
+1063,40095645,Western Australia
+1064,40095967,Western Australia
+1065,40095968,Western Australia
+1066,40097488,Victoria
+1067,40098780,New South Wales
+1068,40099938,New South Wales
+1069,40100271,Western Australia
+1070,40106749,Tasmania
+1071,40108502,New South Wales
+1072,40109550,New South Wales
+1073,40111580,New South Wales
+1074,40120255,New South Wales
+1075,40124294,Victoria
+1076,40125892,New South Wales
+1077,40131103,South Australia
+1078,40131621,New South Wales
+1079,40131929,Western Australia
+1080,40137230,Victoria
+1081,40139106,New South Wales
+1082,40142871,New South Wales
+1083,40142872,Queensland
+1084,40143241,Victoria
+1085,40145975,New South Wales
+1086,40147169,New South Wales
+1087,40147775,New South Wales
+1088,40148929,New South Wales
+1089,40155358,New South Wales
+1090,40157692,Victoria
+1091,40158124,Victoria
+1092,40160559,New South Wales
+1093,40161833,New South Wales
+1094,40166462,Victoria
+1095,40168499,New South Wales
+1096,40169540,New South Wales
+1097,40177162,Western Australia
+1098,40179751,New South Wales
+1099,40181112,New South Wales
+1100,40182122,Victoria
+1101,40182457,Victoria
+1102,40183818,Victoria
+1103,40184903,Queensland
+1104,40189624,Victoria
+1105,40192096,Victoria
+1106,40192105,Victoria
+1107,40199588,Victoria
+1108,40199589,Victoria
+1109,40207259,Queensland
+1110,40207260,Queensland
+1111,40207261,Queensland
+1112,40207262,Queensland
+1113,40207560,New South Wales
+1114,40207561,Victoria
+1115,40207630,New South Wales
+1116,40208095,Victoria
+1117,40208819,Western Australia
+1118,40209792,Victoria
+1119,40209806,New South Wales
+1120,40211856,New South Wales
+1121,40211857,New South Wales
+1122,40211928,New South Wales
+1123,40216904,Western Australia
+1124,40218844,Western Australia
+1125,40222531,Western Australia
+1126,40228331,Western Australia
+1127,40229349,New South Wales
+1128,40231150,Victoria
+1129,40231258,New South Wales
+1130,40231294,New South Wales
+1131,40235873,Queensland
+1132,40236061,New South Wales
+1133,40236062,New South Wales
+1134,40236063,New South Wales
+1135,40241595,New South Wales
+1136,40241958,Victoria
+1137,40248240,New South Wales
+1138,40256646,Queensland
+1139,40257661,New South Wales
+1140,40259750,New South Wales
+1141,40259888,New South Wales
+1142,40270044,New South Wales
+1143,40270045,New South Wales
+1144,40270299,New South Wales
+1145,40270659,New South Wales
+1146,40271192,Victoria
+1147,40274216,Australian Capital Territory
+1148,40275824,South Australia
+1149,40278484,Victoria
+1150,40278562,New South Wales
+1151,40278934,New South Wales
+1152,40279028,New South Wales
+1153,40280118,Queensland
+1154,40281955,Victoria
+1155,40288333,New South Wales
+1156,40291869,Victoria
+1157,40291989,Victoria
+1158,40300581,New South Wales
+1159,40300719,Western Australia
+1160,40300721,Western Australia
+1161,40310189,Victoria
+1162,40314237,Australian Capital Territory
+1163,40315162,Queensland
+1164,40315352,Australian Capital Territory
+1165,40317101,Queensland
+1166,40318414,New South Wales
+1167,40319244,New South Wales
+1168,40321296,New South Wales
+1169,40324051,New South Wales
+1170,40327897,Victoria
+1171,40328216,Queensland
+1172,40329437,New South Wales
+1173,40331003,Australian Capital Territory
+1174,40335464,Victoria
+1175,40336575,Western Australia
+1176,40338509,Victoria
+1177,40340593,Victoria
+1178,40343977,New South Wales
+1179,40344499,South Australia
+1180,40344719,New South Wales
+1181,40345298,New South Wales
+1182,40348405,Victoria
+1183,40349792,New South Wales
+1184,40352849,Victoria
+1185,40354033,New South Wales
+1186,40361987,Victoria
+1187,40362009,Queensland
+1188,40363858,New South Wales
+1189,40365873,New South Wales
+1190,40369561,New South Wales
+1191,40371371,Victoria
+1192,40374288,South Australia
+1193,40382048,New South Wales
+1194,40385464,Victoria
+1195,40385699,New South Wales
+1196,40385790,New South Wales
+1197,40386941,New South Wales
+1198,40386943,Victoria
+1199,40389774,New South Wales
+1200,40401238,Victoria
+1201,40402536,Western Australia
+1202,40404513,Victoria
+1203,40407179,Victoria
+1204,40411620,Victoria
+1205,40411621,Victoria
+1206,40413425,Western Australia
+1207,40413765,Western Australia
+1208,40415356,Victoria
+1209,40415357,Victoria
+1210,40416184,New South Wales
+1211,40416400,New South Wales
+1212,40417428,Victoria
+1213,40419855,New South Wales
+1214,40420055,Western Australia
+1215,40421822,Victoria
+1216,40421865,New South Wales
+1217,40422633,Victoria
+1218,40424977,Western Australia
+1219,40427093,Victoria
+1220,40428440,Queensland
+1221,40428614,New South Wales
+1222,40431127,Victoria
+1223,40435995,New South Wales
+1224,40443422,Australian Capital Territory
+1225,40449379,New South Wales
+1226,40450351,Victoria
+1227,40458509,Western Australia
+1228,40463023,Victoria
+1229,40463410,Victoria
+1230,40464030,New South Wales
+1231,40465540,New South Wales
+1232,40467228,Victoria
+1233,40473030,New South Wales
+1234,40475206,Victoria
+1235,40478205,New South Wales
+1236,40481888,Victoria
+1237,40487400,Western Australia
+1238,40490522,Western Australia
+1239,40502645,Victoria
+1240,40507997,New South Wales
+1241,40508408,Victoria
+1242,40510136,New South Wales
+1243,40510187,New South Wales
+1244,40510210,New South Wales
+1245,40510394,New South Wales
+1246,40510570,Australian Capital Territory
+1247,40510592,New South Wales
+1248,40510745,New South Wales
+1249,40511098,New South Wales
+1250,40512777,New South Wales
+1251,40513999,New South Wales
+1252,40515782,New South Wales
+1253,40516339,New South Wales
+1254,40516794,New South Wales
+1255,40517297,New South Wales
+1256,40517300,New South Wales
+1257,40524404,Queensland
+1258,40524871,New South Wales
+1259,40525313,Western Australia
+1260,40526746,New South Wales
+1261,40530116,New South Wales
+1262,40536084,New South Wales
+1263,40537593,Australian Capital Territory
+1264,40539080,New South Wales
+1265,40539636,Australian Capital Territory
+1266,40544993,Victoria
+1267,40548267,New South Wales
+1268,40549161,Victoria
+1269,40550812,Queensland
+1270,40552268,Victoria
+1271,40554190,New South Wales
+1272,40555424,New South Wales
+1273,40556692,Victoria
+1274,40557207,Queensland
+1275,40557209,Victoria
+1276,40557881,New South Wales
+1277,40565652,Victoria
+1278,40572253,New South Wales
+1279,40572534,Victoria
+1280,40572840,Western Australia
+1281,40574064,New South Wales
+1282,40574491,New South Wales
+1283,40575253,New South Wales
+1284,40575434,Victoria
+1285,40582392,Australian Capital Territory
+1286,40588789,Australian Capital Territory
+1287,40590817,Victoria
+1288,40591469,Victoria
+1289,40596012,Western Australia
+1290,40596013,Western Australia
+1291,40602692,Victoria
+1292,40605627,South Australia
+1293,40608356,New South Wales
+1294,40608926,Victoria
+1295,40609100,Queensland
+1296,40609473,Victoria
+1297,40609813,New South Wales
+1298,40611348,Australian Capital Territory
+1299,40612010,Australian Capital Territory
+1300,40613042,New South Wales
+1301,40613422,Victoria
+1302,40616286,Victoria
+1303,40617237,Victoria
+1304,40622425,New South Wales
+1305,40626226,New South Wales
+1306,40627947,Victoria
+1307,40629559,New South Wales
+1308,40629560,Victoria
+1309,40629561,Queensland
+1310,40629562,Western Australia
+1311,40630208,New South Wales
+1312,40632221,Victoria
+1313,40643160,Victoria
+1314,40643581,Victoria
+1315,40644831,Western Australia
+1316,40645413,Victoria
+1317,40659394,New South Wales
+1318,40659544,Australian Capital Territory
+1319,40661060,Victoria
+1320,40662980,New South Wales
+1321,40663707,New South Wales
+1322,40669534,New South Wales
+1323,40670023,New South Wales
+1324,40675498,New South Wales
+1325,40681987,Victoria
+1326,40686492,Australian Capital Territory
+1327,40687701,Western Australia
+1328,40688746,New South Wales
+1329,40689069,Australian Capital Territory
+1330,40689539,New South Wales
+1331,40697513,Australian Capital Territory
+1332,40698087,Victoria
+1333,40699802,Australian Capital Territory
+1334,40702274,Australian Capital Territory
+1335,40702972,Australian Capital Territory
+1336,40703984,Queensland
+1337,40705087,Victoria
+1338,40705088,Victoria
+1339,40707613,New South Wales
+1340,40714007,New South Wales
+1341,40720542,Australian Capital Territory
+1342,40724068,Western Australia
+1343,40726582,Victoria
+1344,40730461,Western Australia
+1345,40732224,South Australia
+1346,40732406,Victoria
+1347,40732604,New South Wales
+1348,40733705,New South Wales
+1349,40735586,Western Australia
+1350,40735587,Western Australia
+1351,40736093,New South Wales
+1352,40737322,New South Wales
+1353,40743840,New South Wales
+1354,40743938,Queensland
+1355,40743939,Queensland
+1356,40743940,Queensland
+1357,40743941,Queensland
+1358,40743942,Queensland
+1359,40743943,Queensland
+1360,40743970,Western Australia
+1361,40743971,Western Australia
+1362,40747655,Queensland
+1363,40747656,Queensland
+1364,40747657,Queensland
+1365,40747658,Queensland
+1366,40749874,Victoria
+1367,40749875,Victoria
+1368,40755087,New South Wales
+1369,40755462,Victoria
+1370,40755668,New South Wales
+1371,40760443,New South Wales
+1372,40762164,New South Wales
+1373,40777408,New South Wales
+1374,40778646,Victoria
+1375,40779147,New South Wales
+1376,40779701,Western Australia
+1377,40783234,New South Wales
+1378,40785518,New South Wales
+1379,40787483,New South Wales
+1380,40792968,New South Wales
+1381,40794915,New South Wales
+1382,40795453,Victoria
+1383,40800810,Western Australia
+1384,40804035,New South Wales
+1385,40808464,Victoria
+1386,40809090,Western Australia
+1387,40809510,Australian Capital Territory
+1388,40810758,New South Wales
+1389,40811198,Queensland
+1390,40812696,New South Wales
+1391,40815162,New South Wales
+1392,40816129,New South Wales
+1393,40816549,New South Wales
+1394,40818419,Victoria
+1395,40820430,Victoria
+1396,40825875,Victoria
+1397,40826295,New South Wales
+1398,40826472,Australian Capital Territory
+1399,40828464,New South Wales
+1400,40829063,Victoria
+1401,40829086,New South Wales
+1402,40829238,New South Wales
+1403,40829491,New South Wales
+1404,40831908,New South Wales
+1405,40833693,Victoria
+1406,40840712,Victoria
+1407,40841551,New South Wales
+1408,40842550,Western Australia
+1409,40843019,South Australia
+1410,40845962,New South Wales
+1411,40849786,Victoria
+1412,40850697,Queensland
+1413,40850962,Victoria
+1414,40853708,Victoria
+1415,40854097,New South Wales
+1416,40855996,Victoria
+1417,40856469,New South Wales
+1418,40858790,New South Wales
+1419,40863579,Western Australia
+1420,40871531,New South Wales
+1421,40874707,New South Wales
+1422,40874843,Victoria
+1423,40875051,Victoria
+1424,40876891,Australian Capital Territory
+1425,40877750,New South Wales
+1426,40877785,New South Wales
+1427,40880268,Victoria
+1428,40881617,Victoria
+1429,40882263,Queensland
+1430,40884416,New South Wales
+1431,40884494,Victoria
+1432,40885551,Western Australia
+1433,40894132,Australian Capital Territory
+1434,40894989,New South Wales
+1435,40894998,Western Australia
+1436,40895426,New South Wales
+1437,40895432,New South Wales
+1438,40898081,Victoria
+1439,40898619,Victoria
+1440,40899081,New South Wales
+1441,40906909,New South Wales
+1442,40909757,New South Wales
+1443,40910836,Victoria
+1444,40911298,Victoria
+1445,40911670,New South Wales
+1446,40918345,New South Wales
+1447,40918942,New South Wales
+1448,40925535,New South Wales
+1449,40931693,Queensland
+1450,40935512,New South Wales
+1451,40935563,New South Wales
+1452,40937456,New South Wales
+1453,40944181,New South Wales
+1454,40947347,New South Wales
+1455,40948587,Queensland
+1456,40952149,New South Wales
+1457,40953958,Victoria
+1458,40955895,New South Wales
+1459,40955896,New South Wales
+1460,40957005,New South Wales
+1461,40957006,New South Wales
+1462,40957827,New South Wales
+1463,40961965,Victoria
+1464,40963141,New South Wales
+1465,40963229,Victoria
+1466,40963644,Victoria
+1467,40964260,South Australia
+1468,40965621,Victoria
+1469,40965716,Western Australia
+1470,40973121,New South Wales
+1471,40978246,New South Wales
+1472,40978610,Victoria
+1473,40980690,Queensland
+1474,40980952,New South Wales
+1475,40984734,New South Wales
+1476,40985952,Queensland
+1477,40986414,Victoria
+1478,40987520,New South Wales
+1479,40992792,New South Wales
+1480,40996054,New South Wales
+1481,40996056,New South Wales
+1482,41000801,Victoria
+1483,41003793,Victoria
+1484,41004599,Victoria
+1485,41010433,Victoria
+1486,41012629,New South Wales
+1487,41012846,New South Wales
+1488,41013989,New South Wales
+1489,41016053,Victoria
+1490,41016997,Victoria
+1491,41022689,New South Wales
+1492,41023818,Victoria
+1493,41024416,New South Wales
+1494,41029792,Western Australia
+1495,41033578,Queensland
+1496,41036381,New South Wales
+1497,41037334,New South Wales
+1498,41026878,Queensland
+1499,41047024,New South Wales
+1500,41047636,Victoria
+1501,41048460,Victoria
+1502,41050968,Victoria
+1503,41052770,New South Wales
+1504,41059582,New South Wales
+1505,41060119,Victoria
+1506,41064177,New South Wales
+1507,41064179,Victoria
+1508,41064180,Queensland
+1509,41066048,New South Wales
+1510,41066222,New South Wales
+1511,41070046,New South Wales
+1512,41073174,Victoria
+1513,41076215,New South Wales
+1514,41082292,New South Wales
+1515,41088023,New South Wales
+1516,41088332,Victoria
+1517,41092036,New South Wales
+1518,41093642,New South Wales
+1519,41094434,Victoria
+1520,41094699,New South Wales
+1521,41097773,New South Wales
+1522,41098528,Victoria
+1523,41103899,New South Wales
+1524,41104332,Victoria
+1525,41105511,New South Wales
+1526,41107396,Victoria
+1527,41111352,Queensland
+1528,41114403,New South Wales
+1529,41114772,Australian Capital Territory
+1530,41118345,Victoria
+1531,41118371,Victoria
+1532,41134168,New South Wales
+1533,41137739,New South Wales
+1534,41139690,Victoria
+1535,41139918,New South Wales
+1536,41146665,Victoria
+1537,41152863,New South Wales
+1538,41156696,New South Wales
+1539,41159600,Western Australia
+1540,41162534,New South Wales
+1541,41162721,Victoria
+1542,41162815,New South Wales
+1543,41168547,Victoria
+1544,41172760,Queensland
+1545,41175402,Western Australia
+1546,41175648,Western Australia
+1547,41175728,New South Wales
+1548,41177939,Queensland
+1549,41178628,Victoria
+1550,41178815,Australian Capital Territory
+1551,41181244,Western Australia
+1552,41183557,Victoria
+1553,41184361,Australian Capital Territory
+1554,41185121,New South Wales
+1555,41190741,Victoria
+1556,41191123,Western Australia
+1557,41195127,New South Wales
+1558,41196333,Australian Capital Territory
+1559,41196414,Australian Capital Territory
+1560,41196630,Australian Capital Territory
+1561,41201732,New South Wales
+1562,41201820,Australian Capital Territory
+1563,41201998,Victoria
+1564,41202049,Australian Capital Territory
+1565,41204801,New South Wales
+1566,41204802,New South Wales
+1567,41209208,Australian Capital Territory
+1568,41212016,New South Wales
+1569,41212059,New South Wales
+1570,41215778,Western Australia
+1571,41216460,Victoria
+1572,41217993,Victoria
+1573,41219285,New South Wales
+1574,41221393,Queensland
+1575,41221675,New South Wales
+1576,41223086,Victoria
+1577,41228514,Victoria
+1578,41229164,South Australia
+1579,41233213,Victoria
+1580,41233915,New South Wales
+1581,41241142,New South Wales
+1582,41242575,Western Australia
+1583,41246961,Queensland
+1584,41251239,New South Wales
+1585,41251774,New South Wales
+1586,41251877,New South Wales
+1587,41252140,Victoria
+1588,41255298,New South Wales
+1589,41257038,New South Wales
+1590,41257048,New South Wales
+1591,41261036,Victoria
+1592,41263941,Victoria
+1593,41267859,Queensland
+1594,41272116,New South Wales
+1595,41272859,Victoria
+1596,41273155,New South Wales
+1597,41273574,New South Wales
+1598,41273929,Victoria
+1599,41281823,Victoria
+1600,41282028,New South Wales
+1601,41284491,Queensland
+1602,41284514,New South Wales
+1603,41285258,New South Wales
+1604,41290529,Victoria
+1605,41292071,Australian Capital Territory
+1606,41292283,Victoria
+1607,41292862,New South Wales
+1608,41296024,New South Wales
+1609,41299477,New South Wales
+1610,41302770,New South Wales
+1611,41303284,Western Australia
+1612,41304209,Western Australia
+1613,41308922,Victoria
+1614,41311514,New South Wales
+1615,41316613,Victoria
+1616,41317270,Victoria
+1617,41319174,Queensland
+1618,41320200,New South Wales
+1619,41323449,UK & Ireland
+1620,41325354,New South Wales
+1621,41326293,South Australia
+1622,41330563,New South Wales
+1623,41337231,New South Wales
+1624,41337246,New South Wales
+1625,41341444,Victoria
+1626,41343172,New South Wales
+1627,41345156,Australian Capital Territory
+1628,41350401,Western Australia
+1629,41358026,Victoria
+1630,41362781,New South Wales
+1631,41363568,New South Wales
+1632,41365564,Australian Capital Territory
+1633,41365565,Australian Capital Territory
+1634,41365572,Victoria
+1635,41365573,Victoria
+1636,41365574,Tasmania
+1637,41365575,Tasmania
+1638,50009233,Victoria
+1639,50009579,New South Wales
+1640,50011560,Victoria
+1641,50012304,Victoria
+1642,50014854,New South Wales
+1643,50030828,Queensland
+1644,50032919,New South Wales
+1645,50032920,New South Wales
+1646,50042381,Australian Capital Territory
+1647,50042382,Australian Capital Territory
+1648,50042391,New South Wales
+1649,50042392,New South Wales
+1650,50042395,Victoria
+1651,50042396,Victoria
+1652,50045846,Victoria
+1653,50046020,New South Wales
+1654,50047050,Victoria
+1655,50047097,New South Wales
+1656,50049315,Victoria
+1657,50049858,Victoria
+1658,50049886,New South Wales
+1659,50049892,Queensland
+1660,50049899,Western Australia
+1661,50049907,Australian Capital Territory
+1662,50049910,South Australia
+1663,50049917,Tasmania
+1664,50051375,Queensland
+1665,50054797,Western Australia
+1666,50055399,Victoria
+1667,50056288,New South Wales
+1668,50059301,Western Australia
+1669,50062559,Western Australia
+1670,50063475,Queensland
+1671,50065102,Victoria
+1672,50068047,Victoria
+1673,50070808,Australian Capital Territory
+1674,50072311,Victoria
+1675,50072923,Western Australia
+1676,50077256,Western Australia
+1677,50085283,New South Wales
+1678,50088640,New South Wales
+1679,50094828,Australian Capital Territory
+1680,50095022,Australian Capital Territory
+1681,50095173,Australian Capital Territory
+1682,50095468,Australian Capital Territory
+1683,50095486,Australian Capital Territory
+1684,50095735,Australian Capital Territory
+1685,50095929,Australian Capital Territory
+1686,50096308,Australian Capital Territory
+1687,50096559,Australian Capital Territory
+1688,50100335,Australian Capital Territory
+1689,50101034,Victoria
+1690,50102837,New South Wales
+1691,50102838,New South Wales
+1692,50104038,Australian Capital Territory
+1693,50105177,Australian Capital Territory
+1694,50107412,New South Wales
+1695,50109374,Victoria
+1696,50109811,Victoria
+1697,50125813,Victoria
+1698,50128877,Victoria
+1699,50131066,New South Wales
+1700,50141872,Victoria
+1701,50144278,New South Wales
+1702,50145900,New South Wales
+1703,50158684,Victoria
+1704,50160561,South Australia
+1705,50173686,New South Wales
+1706,50175290,Victoria
+1707,50175291,Victoria
+1708,50175971,New South Wales
+1709,50180009,Victoria
+1710,50184570,Western Australia
+1711,50193330,New South Wales
+1712,50198562,Victoria
+1713,50200263,New South Wales
+1714,50200327,New South Wales
+1715,50204263,Victoria
+1716,50214501,New South Wales
+1717,50214886,Victoria
+1718,50217120,Victoria
+1719,50217773,New South Wales
+1720,50220847,Victoria
+1721,50222198,New South Wales
+1722,50227915,Victoria
+1723,50229473,New South Wales
+1724,50230115,Queensland
+1725,50232597,Victoria
+1726,50234085,New South Wales
+1727,50235754,New South Wales
+1728,50236741,New South Wales
+1729,50246728,New South Wales
+1730,50246943,New South Wales
+1731,50247543,New South Wales
+1732,50247862,New South Wales
+1733,50248956,Queensland
+1734,50249469,Victoria
+1735,50249691,New South Wales
+1736,50250562,New South Wales
+1737,50251893,New South Wales
+1738,50259184,New South Wales
+1739,50261784,New South Wales
+1740,50261785,New South Wales
+1741,50262813,New South Wales
+1742,50263893,Western Australia
+1743,50264101,New South Wales
+1744,50264156,Victoria
+1745,50265670,New South Wales
+1746,50269160,New South Wales
+1747,50270868,Western Australia
+1748,50271161,New South Wales
+1749,50271490,Victoria
+1750,50272575,Victoria
+1751,50278557,Queensland
+1752,50284114,New South Wales
+1753,50298668,Victoria
+1754,50302831,New South Wales
+1755,50303706,New South Wales
+1756,50303888,New South Wales
+1757,50307235,New South Wales
+1758,50307364,Western Australia
+1759,50309769,New South Wales
+1760,50309824,Queensland
+1761,50309961,Queensland
+1762,50313622,Victoria
+1763,50314304,New South Wales
+1764,50314461,New South Wales
+1765,50319450,New South Wales
+1766,50326963,Australian Capital Territory
+1767,50327005,Australian Capital Territory
+1768,50327024,Australian Capital Territory
+1769,50327061,Australian Capital Territory
+1770,50327472,Australian Capital Territory
+1771,50327591,Australian Capital Territory
+1772,50327708,Australian Capital Territory
+1773,50327960,Australian Capital Territory
+1774,50328132,Australian Capital Territory
+1775,50328222,Australian Capital Territory
+1776,50331122,New South Wales
+1777,50331851,Australian Capital Territory
+1778,50337898,Victoria
+1779,50338123,New South Wales
+1780,50338431,Australian Capital Territory
+1781,50347384,New South Wales
+1782,50358869,Queensland
+1783,50358870,Queensland
+1784,50365446,New South Wales
+1785,50370202,Victoria
+1786,50370550,New South Wales
+1787,50371982,Victoria
+1788,50376009,Australian Capital Territory
+1789,50379316,Victoria
+1790,50383210,New South Wales
+1791,50388867,Victoria
+1792,50393123,Western Australia
+1793,50393759,New South Wales
+1794,50393769,Victoria
+1795,50394569,Queensland
+1796,50396702,New South Wales
+1797,50399710,Western Australia
+1798,50399820,Western Australia
+1799,50400336,Victoria
+1800,50406782,Western Australia
+1801,50409388,Victoria
+1802,50411433,Australian Capital Territory
+1803,50411496,Australian Capital Territory
+1804,50419238,Victoria
+1805,50432123,New South Wales
+1806,50434820,Victoria
+1807,50436938,New South Wales
+1808,50444125,New South Wales
+1809,50445040,Victoria
+1810,50445189,New South Wales
+1811,50447749,New South Wales
+1812,50447880,New South Wales
+1813,50449684,New South Wales
+1814,50456042,New South Wales
+1815,50459802,Victoria
+1816,50459803,Victoria
+1817,50459804,New South Wales
+1818,50459805,New South Wales
+1819,50462790,New South Wales
+1820,50462922,New South Wales
+1821,50464386,New South Wales
+1822,50465400,New South Wales
+1823,50474728,New South Wales
+1824,50477038,Victoria
+1825,50480202,Victoria
+1826,50482368,New South Wales
+1827,50483202,Victoria
+1828,50488878,Australian Capital Territory
+1829,50490284,Victoria
+1830,50493158,Victoria
+1831,50495354,New South Wales
+1832,50496424,New South Wales
+1833,50498265,New South Wales
+1834,50500820,UK & Ireland
+1835,50501287,New South Wales
+1836,50504615,New South Wales
+1837,50508401,Victoria
+1838,50510410,New South Wales
+1839,50514565,Victoria
+1840,50516729,New South Wales
+1841,50519045,New South Wales
+1842,50525412,New South Wales
+1843,50525869,Victoria
+1844,50525928,New South Wales
+1845,50526178,Victoria
+1846,50526224,New South Wales
+1847,50526697,New South Wales
+1848,50527541,Victoria
+1849,50528148,Western Australia
+1850,50529494,Victoria
+1851,50532525,New South Wales
+1852,50537814,New South Wales
+1853,50540551,Victoria
+1854,50541122,South Australia
+1855,50542539,Victoria
+1856,50543126,New South Wales
+1857,50547605,New South Wales
+1858,50552136,Australian Capital Territory
+1859,50556874,New South Wales
+1860,50558063,New South Wales
+1861,50558569,New South Wales
+1862,50559132,New South Wales
+1863,50560687,New South Wales
+1864,50563004,New South Wales
+1865,50568294,New South Wales
+1866,50569726,New South Wales
+1867,50570200,New South Wales
+1868,50573251,South Australia
+1869,50574788,South Australia
+1870,50575940,South Australia
+1871,50577370,South Australia
+1872,50577937,South Australia
+1873,50578366,New South Wales
+1874,50578788,South Australia
+1875,50579350,New South Wales
+1876,50581876,New South Wales
+1877,50583169,New South Wales
+1878,50584022,South Australia
+1879,50586342,South Australia
+1880,50588064,New South Wales
+1881,50588694,New South Wales
+1882,50588695,New South Wales
+1883,50594742,Australian Capital Territory
+1884,50595621,Australian Capital Territory
+1885,50597218,Australian Capital Territory
+1886,50597858,Victoria
+1887,50607768,New South Wales
+1888,50612647,Western Australia
+1889,50614147,New South Wales
+1890,50615280,Victoria
+1891,50618629,New South Wales
+1892,50619043,New South Wales
+1893,50619301,Victoria
+1894,50626792,Victoria
+1895,50627460,Victoria
+1896,50628263,Western Australia
+1897,50640175,New South Wales
+1898,50642860,Victoria
+1899,50643045,South Australia
+1900,50643257,South Australia
+1901,50643679,Queensland
+1902,50643682,Australian Capital Territory
+1903,50644232,South Australia
+1904,50644746,Victoria
+1905,50645114,Victoria
+1906,50646206,South Australia
+1907,50649828,Victoria
+1908,50649878,New South Wales
+1909,50652053,Victoria
+1910,50659171,South Australia
+1911,50659809,New South Wales
+1912,50660122,Australian Capital Territory
+1913,50675590,New South Wales
+1914,50683792,Victoria
+1915,50686157,Victoria
+1916,50686158,Victoria
+1917,50689269,Australian Capital Territory
+1918,50689270,Australian Capital Territory
+1919,50691124,Victoria
+1920,50704127,Victoria
+1921,50713693,Victoria
+1922,50713694,Victoria
+1923,50713733,Australian Capital Territory
+1924,50713734,Australian Capital Territory
+1925,50718246,New South Wales
+1926,50721394,Queensland
+1927,50722560,New South Wales
+1928,50722561,Victoria
+1929,50727338,New South Wales
+1930,50727502,Western Australia
+1931,50727552,Western Australia
+1932,50730435,Australian Capital Territory
+1933,50732163,Victoria
+1934,50732200,Victoria
+1935,50732621,New South Wales
+1936,50733835,New South Wales
+1937,50734745,New South Wales
+1938,50746971,New South Wales
+1939,50752251,Australian Capital Territory
+1940,50752359,Australian Capital Territory
+1941,50755753,Australian Capital Territory
+1942,50756045,South Australia
+1943,50756316,New South Wales
+1944,50757358,Victoria
+1945,50758210,Australian Capital Territory
+1946,50759817,New South Wales
+1947,50760100,Australian Capital Territory
+1948,50760335,New South Wales
+1949,50771589,New South Wales
+1950,50771794,New South Wales
+1951,50775472,New South Wales
+1952,50775484,New South Wales
+1953,50779930,Victoria
+1954,50780514,Australian Capital Territory
+1955,50780692,Victoria
+1956,50781655,Australian Capital Territory
+1957,50781932,New South Wales
+1958,50783110,Australian Capital Territory
+1959,50783557,Queensland
+1960,50784629,New South Wales
+1961,50786476,New South Wales
+1962,50786699,New South Wales
+1963,50786844,Queensland
+1964,50786845,Victoria
+1965,50788318,Australian Capital Territory
+1966,50789784,Australian Capital Territory
+1967,50790221,Western Australia
+1968,50791532,New South Wales
+1969,50791588,New South Wales
+1970,50793451,New South Wales
+1971,50793464,Australian Capital Territory
+1972,50793936,Victoria
+1973,50797151,Victoria
+1974,50797727,Western Australia
+1975,50798437,New South Wales
+1976,50798676,New South Wales
+1977,50798812,Victoria
+1978,50804995,New South Wales
+1979,50805367,Queensland
+1980,50806566,Australian Capital Territory
+1981,50822430,Victoria
+1982,50823372,Victoria
+1983,50824185,Victoria
+1984,50824514,Victoria
+1985,50829938,New South Wales
+1986,50838212,South Australia
+1987,50841554,Victoria
+1988,50843261,New South Wales
+1989,50845610,Victoria
+1990,50847267,Queensland
+1991,50847741,Queensland
+1992,50850753,Queensland
+1993,50850806,New South Wales
+1994,50856897,New South Wales
+1995,50858343,New South Wales
+1996,50859345,Queensland
+1997,50870634,New South Wales
+1998,50873396,Victoria
+1999,50885434,Victoria
+2000,50890768,Victoria
+2001,50891498,Victoria
+2002,50891717,Victoria
+2003,50898428,Victoria
+2004,50898558,Australian Capital Territory
+2005,50902077,New South Wales
+2006,50902759,Queensland
+2007,50902842,Victoria
+2008,50902843,Victoria
+2009,50902853,Victoria
+2010,50902854,Victoria
+2011,50902859,New South Wales
+2012,50902860,New South Wales
+2013,50902861,Australian Capital Territory
+2014,50902862,Australian Capital Territory
+2015,50902863,Australian Capital Territory
+2016,50902864,Australian Capital Territory
+2017,50902865,Queensland
+2018,50902866,Queensland
+2019,50902867,Queensland
+2020,50902868,Queensland
+2021,50902869,New South Wales
+2022,50902870,New South Wales
+2023,50905260,Western Australia
+2024,50907358,Queensland
+2025,50909494,Victoria
+2026,50909930,New South Wales
+2027,50911733,Victoria
+2028,50912603,New South Wales
+2029,50914237,Queensland
+2030,50921450,Victoria
+2031,50923205,Victoria
+2032,50930181,South Australia
+2033,50936373,Victoria
+2034,50939939,Victoria
+2035,50940899,New South Wales
+2036,50944035,Victoria
+2037,50946216,New South Wales
+2038,50947041,Queensland
+2039,50951796,New South Wales
+2040,50953198,Victoria
+2041,50956098,Victoria
+2042,50958822,New South Wales
+2043,50963474,New South Wales
+2044,50964180,Australian Capital Territory
+2045,50964951,Queensland
+2046,50968608,New South Wales
+2047,50973377,Victoria
+2048,50978948,Victoria
+2049,50989494,New South Wales
+2050,50989498,New South Wales
+2051,50991080,New South Wales
+2052,50992111,Victoria
+2053,50999075,Queensland
+2054,51003770,Victoria
+2055,51004046,Victoria
+2056,51007066,South Australia
+2057,51009884,Victoria
+2058,51013314,Victoria
+2059,51015290,Victoria
+2060,51015966,South Australia
+2061,51024284,Queensland
+2062,51033863,New South Wales
+2063,51038882,New South Wales
+2064,51040808,New South Wales
+2065,51045622,Victoria
+2066,51051856,New South Wales
+2067,51052667,New South Wales
+2068,51052668,New South Wales
+2069,51053078,Queensland
+2070,51053079,Queensland
+2071,51054644,Queensland
+2072,51060475,New South Wales
+2073,51074177,Victoria
+2074,51085999,Australian Capital Territory
+2075,51087355,Western Australia
+2076,51087356,Western Australia
+2077,51088035,Western Australia
+2078,51100145,New South Wales
+2079,51101181,Victoria
+2080,51101459,New South Wales
+2081,51101707,Victoria
+2082,51102215,Victoria
+2083,51103370,New South Wales
+2084,51104198,Australian Capital Territory
+2085,51104294,Australian Capital Territory
+2086,51104515,Australian Capital Territory
+2087,51104752,Australian Capital Territory
+2088,51104869,Australian Capital Territory
+2089,51104887,Australian Capital Territory
+2090,51105330,Australian Capital Territory
+2091,51105447,New South Wales
+2092,51106472,Australian Capital Territory
+2093,51108434,Australian Capital Territory
+2094,51112233,New South Wales
+2095,51120151,Australian Capital Territory
+2096,51123975,New South Wales
+2097,51137953,New South Wales
+2098,51141941,New South Wales
+2099,51142030,New South Wales
+2100,51143574,Victoria
+2101,51145071,New South Wales
+2102,51145672,New South Wales
+2103,51149298,New South Wales
+2104,51150271,Victoria
+2105,51150336,Queensland
+2106,51157126,Victoria
+2107,51159135,Victoria
+2108,51159326,Victoria
+2109,51159967,Victoria
+2110,51161014,Queensland
+2111,51161567,New South Wales
+2112,51162316,Victoria
+2113,51170901,New South Wales
+2114,51174118,South Australia
+2115,51174551,New South Wales
+2116,51181089,Victoria
+2117,51188331,Victoria
+2118,51200630,Victoria
+2119,51206969,Victoria
+2120,51210731,Western Australia
+2121,51210732,Western Australia
+2122,51211768,Victoria
+2123,51214652,Victoria
+2124,51216423,Australian Capital Territory
+2125,51218821,Australian Capital Territory
+2126,51219775,Australian Capital Territory
+2127,51225244,New South Wales
+2128,51226430,New South Wales
+2129,51226880,New South Wales
+2130,51228974,Victoria
+2131,51235361,Queensland
+2132,51236262,New South Wales
+2133,51238778,New South Wales
+2134,51238826,New South Wales
+2135,51251937,Victoria
+2136,51254180,Victoria
+2137,51255923,Victoria
+2138,51260942,Victoria
+2139,51264890,New South Wales
+2140,51272247,Victoria
+2141,51273768,Queensland
+2142,51273769,Queensland
+2143,51274523,Victoria
+2144,51277305,Western Australia
+2145,51278313,Victoria
+2146,51283259,New South Wales
+2147,51287943,Victoria
+2148,51288972,New South Wales
+2149,51290324,Victoria
+2150,51306349,Victoria
+2151,51306747,Western Australia
+2152,51311187,Western Australia
+2153,51311188,Western Australia
+2154,51315602,New South Wales
+2155,51316183,Victoria
+2156,51323756,New South Wales
+2157,51324887,Victoria
+2158,51326239,Victoria
+2159,51336642,New South Wales
+2160,51340391,New South Wales
+2161,51342182,Australian Capital Territory
+2162,51342678,Australian Capital Territory
+2163,51342679,Australian Capital Territory
+2164,51348205,Victoria
+2165,51350787,Queensland
+2166,51350788,Queensland
+2167,51353988,Tasmania
+2168,51354978,Victoria
+2169,51356137,Victoria
+2170,51357391,Western Australia
+2171,51368744,New South Wales
+2172,51381779,Victoria
+2173,51386435,Queensland
+2174,51387397,Victoria
+2175,51387398,Victoria
+2176,51395479,New South Wales
+2177,51397412,Queensland
+2178,51404640,New South Wales
+2179,51409689,New South Wales
+2180,51414206,Victoria
+2181,51417536,Victoria
+2182,51417679,Victoria
+2183,51418760,New South Wales
+2184,51419793,New South Wales
+2185,51421196,Victoria
+2186,51421197,Victoria
+2187,51421198,Victoria
+2188,51423877,New South Wales
+2189,51425960,Victoria
+2190,51426473,Victoria
+2191,51438124,New South Wales
+2192,51448121,Victoria
+2193,51454282,Queensland
+2194,51457328,New South Wales
+2195,51457658,Western Australia
+2196,51458706,Victoria
+2197,51458707,Victoria
+2198,51458931,Queensland
+2199,51459881,Western Australia
+2200,51464948,South Australia
+2201,51464983,Victoria
+2202,51473890,Victoria
+2203,51474626,New South Wales
+2204,51476992,New South Wales
+2205,51477058,New South Wales
+2206,51479984,New South Wales
+2207,51482072,Western Australia
+2208,51483589,New South Wales
+2209,51484726,Tasmania
+2210,51491596,South Australia
+2211,51502524,Western Australia
+2212,51504559,New South Wales
+2213,51504561,New South Wales
+2214,51519294,New South Wales
+2215,51527742,Victoria
+2216,51536469,Victoria
+2217,51537007,Victoria
+2218,51537416,Queensland
+2219,51541984,New South Wales
+2220,51543896,Queensland
+2221,51547552,Victoria
+2222,51548385,Queensland
+2223,51548610,Queensland
+2224,51554640,New South Wales
+2225,51560876,Western Australia
+2226,51564723,New South Wales
+2227,51566831,New South Wales
+2228,51567559,Victoria
+2229,51568423,New South Wales
+2230,51569125,Victoria
+2231,51570201,Victoria
+2232,51570202,Victoria
+2233,51575690,Victoria
+2234,51580798,Western Australia
+2235,51590417,New South Wales
+2236,51602165,Victoria
+2237,51605952,Victoria
+2238,51606513,New South Wales
+2239,51612452,New South Wales
+2240,51615450,Queensland
+2241,51616141,Victoria
+2242,51617296,New South Wales
+2243,51628888,New South Wales
+2244,51631553,New South Wales
+2245,51633141,New South Wales
+2246,51637215,New South Wales
+2247,51637340,New South Wales
+2248,51638007,Victoria
+2249,51640168,New South Wales
+2250,51645125,New South Wales
+2251,51646224,Australian Capital Territory
+2252,51646226,Australian Capital Territory
+2253,51649735,New South Wales
+2254,51655552,New South Wales
+2255,51657493,New South Wales
+2256,51658375,Queensland
+2257,51670651,Queensland
+2258,51671232,Victoria
+2259,51673403,Western Australia
+2260,51675294,New South Wales
+2261,51678484,New South Wales
+2262,51678663,New South Wales
+2263,51679088,New South Wales
+2264,51683284,Victoria
+2265,51683817,Victoria
+2266,51698719,Western Australia
+2267,51698906,Victoria
+2268,51701148,New South Wales
+2269,51706335,New South Wales
+2270,51706522,New South Wales
+2271,51706806,Victoria
+2272,51709285,New South Wales
+2273,51711087,New South Wales
+2274,51711167,New South Wales
+2275,51712980,New South Wales
+2276,51715008,Victoria
+2277,51715478,New South Wales
+2278,51719050,Victoria
+2279,51723569,Victoria
+2280,51723570,Victoria
+2281,51723883,New South Wales
+2282,51724579,Western Australia
+2283,51737526,Victoria
+2284,51738195,Victoria
+2285,51738271,Queensland
+2286,51738281,New South Wales
+2287,51740652,Queensland
+2288,51740949,Queensland
+2289,51746514,Victoria
+2290,51750918,Victoria
+2291,51755624,New South Wales
+2292,51756034,Australian Capital Territory
+2293,51757123,New South Wales
+2294,51757124,Victoria
+2295,51760562,Victoria
+2296,51762668,Australian Capital Territory
+2297,51763393,New South Wales
+2298,51766443,Victoria
+2299,51767127,Australian Capital Territory
+2300,51767729,Victoria
+2301,51768287,New South Wales
+2302,51768904,Queensland
+2303,51773022,Victoria
+2304,51773662,New South Wales
+2305,51776887,Victoria
+2306,51780319,Victoria
+2307,51792841,New South Wales
+2308,51793799,New South Wales
+2309,51797350,Victoria
+2310,51797394,New South Wales
+2311,51799393,New South Wales
+2312,51801909,Victoria
+2313,51803457,New South Wales
+2314,51807674,Victoria
+2315,51812126,Victoria
+2316,51819224,South Australia
+2317,51822199,South Australia
+2318,51822972,Queensland
+2319,51826557,New South Wales
+2320,51829094,New South Wales
+2321,51830190,Queensland
+2322,51830651,Victoria
+2323,51830661,New South Wales
+2324,51830675,Queensland
+2325,51834445,Victoria
+2326,51834643,New South Wales
+2327,51836962,New South Wales
+2328,51841337,New South Wales
+2329,51846530,Queensland
+2330,51856782,New South Wales
+2331,51863732,Victoria
+2332,51864332,Victoria
+2333,51866320,New South Wales
+2334,51866822,Victoria
+2335,51871989,South Australia
+2336,51874764,Queensland
+2337,51874871,Victoria
+2338,51874913,New South Wales
+2339,51874936,Western Australia
+2340,51879061,New South Wales
+2341,51879135,Victoria
+2342,51879147,New South Wales
+2343,51885751,Victoria
+2344,51887421,Victoria
+2345,51893631,New South Wales
+2346,51894032,Queensland
+2347,51897544,New South Wales
+2348,51898862,New South Wales
+2349,51899220,Western Australia
+2350,51902490,Victoria
+2351,51902597,New South Wales
+2352,51904186,New South Wales
+2353,51906510,Western Australia
+2354,51906587,New South Wales
+2355,51908751,Victoria
+2356,51909178,Victoria
+2357,51915582,New South Wales
+2358,51919368,New South Wales
+2359,51921029,Victoria
+2360,51922503,Queensland
+2361,51923025,New South Wales
+2362,51923026,New South Wales
+2363,51923323,Western Australia
+2364,51924395,Western Australia
+2365,51924860,New South Wales
+2366,51925033,New South Wales
+2367,51928864,Victoria
+2368,51929754,New South Wales
+2369,51932099,Australian Capital Territory
+2370,51939272,South Australia
+2371,51940913,Victoria
+2372,51943241,Victoria
+2373,51944403,Victoria
+2374,51947215,Western Australia
+2375,51948677,Australian Capital Territory
+2376,51949142,Queensland
+2377,51951444,Queensland
+2378,51956807,Victoria
+2379,51958807,New South Wales
+2380,51959329,New South Wales
+2381,51968296,Queensland
+2382,51976623,New South Wales
+2383,51984036,New South Wales
+2384,51986400,New South Wales
+2385,51987709,Queensland
+2386,51988018,New South Wales
+2387,51989456,Victoria
+2388,51991120,Western Australia
+2389,51991405,New South Wales
+2390,51991480,New South Wales
+2391,51992641,Victoria
+2392,51992642,Queensland
+2393,51995432,New South Wales
+2394,51998365,South Australia
+2395,51998390,Victoria
+2396,51998459,South Australia
+2397,51998486,Victoria
+2398,52002743,New South Wales
+2399,52003293,New South Wales
+2400,52003659,Western Australia
+2401,52010078,Western Australia
+2402,52015014,Victoria
+2403,52020555,Victoria
+2404,52021783,Australian Capital Territory
+2405,52024128,New South Wales
+2406,52028874,New South Wales
+2407,52030101,Victoria
+2408,52036202,New South Wales
+2409,52037881,New South Wales
+2410,52046945,Victoria
+2411,52052477,Western Australia
+2412,52057327,New South Wales
+2413,52057921,New South Wales
+2414,52063591,New South Wales
+2415,52067440,Victoria
+2416,52067499,New South Wales
+2417,52067548,New South Wales
+2418,52070998,New South Wales
+2419,52072145,New South Wales
+2420,52072146,Australian Capital Territory
+2421,52072541,Australian Capital Territory
+2422,52072560,Australian Capital Territory
+2423,52074579,New South Wales
+2424,52077097,Australian Capital Territory
+2425,52077547,New South Wales
+2426,52080142,New South Wales
+2427,52080770,Australian Capital Territory
+2428,52081367,Queensland
+2429,52082072,Victoria
+2430,52082135,Australian Capital Territory
+2431,52082560,Australian Capital Territory
+2432,52082561,Australian Capital Territory
+2433,52082742,Australian Capital Territory
+2434,52086095,New South Wales
+2435,52088405,Australian Capital Territory
+2436,52088807,New South Wales
+2437,52093855,New South Wales
+2438,52095180,New South Wales
+2439,52096606,Western Australia
+2440,52097396,New South Wales
+2441,52098583,Australian Capital Territory
+2442,52099480,New South Wales
+2443,52102402,New South Wales
+2444,52105766,Victoria
+2445,52107070,New South Wales
+2446,52108259,New South Wales
+2447,52110561,New South Wales
+2448,52116660,Victoria
+2449,52116765,Victoria
+2450,52116766,Victoria
+2451,52116988,New South Wales
+2452,52118472,Victoria
+2453,52121904,Western Australia
+2454,52121905,Western Australia
+2455,52121913,New South Wales
+2456,52126507,New South Wales
+2457,52128039,New South Wales
+2458,52129157,South Australia
+2459,52131982,Victoria
+2460,52133390,New South Wales
+2461,52134776,Victoria
+2462,52138165,Australian Capital Territory
+2463,52138680,Australian Capital Territory
+2464,52142611,New South Wales
+2465,52148039,South Australia
+2466,52148040,New South Wales
+2467,52150442,Victoria
+2468,52150443,Victoria
+2469,52153271,South Australia
+2470,52153272,South Australia
+2471,52153344,Queensland
+2472,52153345,Queensland
+2473,52153369,Victoria
+2474,52153370,Victoria
+2475,52153372,Australian Capital Territory
+2476,52153373,Australian Capital Territory
+2477,52153377,Victoria
+2478,52153378,Victoria
+2479,52153379,Western Australia
+2480,52153380,Western Australia
+2481,52153381,New South Wales
+2482,52153382,New South Wales
+2483,52154541,Australian Capital Territory
+2484,52156709,Western Australia
+2485,52157477,Australian Capital Territory
+2486,52157767,New South Wales
+2487,52159611,New South Wales
+2488,52159614,Victoria
+2489,52160308,New South Wales
+2490,52160821,Victoria
+2491,52164095,Victoria
+2492,52170971,Victoria
+2493,52175198,New South Wales
+2494,52176388,New South Wales
+2495,52177524,Western Australia
+2496,52177525,Western Australia
+2497,52182719,Queensland
+2498,52184011,Victoria
+2499,52184778,Victoria
+2500,52186734,Victoria
+2501,52189484,Western Australia
+2502,52189485,Western Australia
+2503,52189547,Victoria
+2504,52191971,Queensland
+2505,52192892,Victoria
+2506,52192946,New South Wales
+2507,52196642,Queensland
+2508,52198966,New South Wales
+2509,52201413,Victoria
+2510,52201414,Victoria
+2511,52203637,Victoria
+2512,52211129,New South Wales
+2513,52215813,Queensland
+2514,52215814,Queensland
+2515,52216549,South Australia
+2516,52216550,South Australia
+2517,52216607,Queensland
+2518,52216608,Queensland
+2519,52216609,Australian Capital Territory
+2520,52216611,Australian Capital Territory
+2521,52216612,Victoria
+2522,52216613,Victoria
+2523,52216615,Victoria
+2524,52216616,Victoria
+2525,52216621,Western Australia
+2526,52216622,Western Australia
+2527,52216624,New South Wales
+2528,52216625,New South Wales
+2529,52216861,New South Wales
+2530,52219256,New South Wales
+2531,52221752,Victoria
+2532,52228204,Queensland
+2533,52228235,New South Wales
+2534,52231596,New South Wales
+2535,52232125,New South Wales
+2536,52233370,New South Wales
+2537,52235593,Western Australia
+2538,52235795,Western Australia
+2539,52237417,New South Wales
+2540,52237418,New South Wales
+2541,52237567,Victoria
+2542,52238651,Victoria
+2543,52242472,Western Australia
+2544,52247102,New South Wales
+2545,52248923,Western Australia
+2546,52249749,South Australia
+2547,52249751,South Australia
+2548,52251305,New South Wales
+2549,52251568,New South Wales
+2550,52251851,New South Wales
+2551,52253182,New South Wales
+2552,52254492,New South Wales
+2553,52258055,New South Wales
+2554,52258094,New South Wales
+2555,52258825,Western Australia
+2556,52259065,Victoria
+2557,52262284,Queensland
+2558,52264475,Victoria
+2559,52265207,Victoria
+2560,52265278,New South Wales
+2561,52265416,Australian Capital Territory
+2562,52267337,New South Wales
+2563,52267734,Victoria
+2564,52267735,Victoria
+2565,52267736,Victoria
+2566,52269085,Australian Capital Territory
+2567,52270058,New South Wales
+2568,52270135,Western Australia
+2569,52272209,New South Wales
+2570,52274507,Victoria
+2571,52279802,Victoria
+2572,52280354,New South Wales
+2573,52280355,New South Wales
+2574,52282382,New South Wales
+2575,52283013,Queensland
+2576,52285908,Australian Capital Territory
+2577,52286200,New South Wales
+2578,52294511,Victoria
+2579,52294512,Victoria
+2580,52298520,New South Wales
+2581,52299811,Western Australia
+2582,52305419,Western Australia
+2583,52305730,Victoria
+2584,52309090,Victoria
+2585,52309091,Victoria
+2586,52311199,Australian Capital Territory
+2587,52312136,New South Wales
+2588,52313622,New South Wales
+2589,52315000,Victoria
+2590,52317717,New South Wales
+2591,52321790,Queensland
+2592,52323207,Australian Capital Territory
+2593,52323622,New South Wales
+2594,52323701,Queensland
+2595,52323963,Western Australia
+2596,52324108,South Australia
+2597,52328448,New South Wales
+2598,52329680,Australian Capital Territory
+2599,52329695,Victoria
+2600,52330689,New South Wales
+2601,52331176,Victoria
+2602,52333277,New South Wales
+2603,52335343,New South Wales
+2604,52335983,New South Wales
+2605,52336529,Queensland
+2606,52337291,Victoria
+2607,52337307,Victoria
+2608,52338544,New South Wales
+2609,52341491,Victoria
+2610,52342267,Victoria
+2611,52343968,New South Wales
+2612,52344033,Victoria
+2613,52348926,New South Wales
+2614,52351425,Victoria
+2615,52353214,Victoria
+2616,52354073,New South Wales
+2617,52354082,Victoria
+2618,52360229,New South Wales
+2619,52360526,Victoria
+2620,52361374,Australian Capital Territory
+2621,52363584,Western Australia
+2622,52363617,New South Wales
+2623,52364435,New South Wales
+2624,52364949,Western Australia
+2625,52366375,New South Wales
+2626,52368345,Australian Capital Territory
+2627,52371667,New South Wales
+2628,52376496,Victoria
+2629,52379088,Victoria
+2630,52379349,Victoria
+2631,52379487,New South Wales
+2632,52384101,Victoria
+2633,52384149,Victoria
+2634,52386152,New South Wales
+2635,52386642,Victoria
+2636,52387393,Victoria
+2637,52387860,Western Australia
+2638,52388572,New South Wales
+2639,52389592,New South Wales
+2640,52390374,New South Wales
+2641,52392338,Victoria
+2642,52395969,Victoria
+2643,52401287,South Australia
+2644,52401288,South Australia
+2645,52401302,Queensland
+2646,52401303,Queensland
+2647,52401311,Australian Capital Territory
+2648,52401312,Australian Capital Territory
+2649,52401314,Victoria
+2650,52401315,Victoria
+2651,52401321,Victoria
+2652,52401322,Victoria
+2653,52401324,Western Australia
+2654,52401325,Western Australia
+2655,52401326,New South Wales
+2656,52401327,New South Wales
+2657,52401680,New South Wales
+2658,52402267,Victoria
+2659,52406250,Victoria
+2660,52407416,New South Wales
+2661,52408214,New South Wales
+2662,52409085,New South Wales
+2663,52410083,New South Wales
+2664,52410656,South Australia
+2665,52410657,South Australia
+2666,52411496,New South Wales
+2667,52411640,Victoria
+2668,52413268,Queensland
+2669,52415830,Queensland
+2670,52415841,New South Wales
+2671,52415852,Victoria
+2672,52418293,New South Wales
+2673,52423664,Australian Capital Territory
+2674,52424093,Queensland
+2675,52429775,Victoria
+2676,52435756,New South Wales
+2677,52437542,Western Australia
+2678,52437657,New South Wales
+2679,52438564,New South Wales
+2680,52440536,New South Wales
+2681,52442190,New South Wales
+2682,52444063,New South Wales
+2683,52444211,Queensland
+2684,52444212,Queensland
+2685,52455333,New South Wales
+2686,52456088,Western Australia
+2687,52458722,Victoria
+2688,52458911,Victoria
+2689,52459270,New South Wales
+2690,52459271,Victoria
+2691,52459533,New South Wales
+2692,52459623,New South Wales
+2693,52459624,New South Wales
+2694,52459698,Victoria
+2695,52462127,Victoria
+2696,52463049,New South Wales
+2697,52473870,New South Wales
+2698,52474002,South Australia
+2699,52477362,New South Wales
+2700,52480535,New South Wales
+2701,52485618,New South Wales
+2702,52486279,New South Wales
+2703,52486280,New South Wales
+2704,52487058,New South Wales
+2705,52488075,New South Wales
+2706,52488389,Western Australia
+2707,52495360,New South Wales
+2708,52500710,New South Wales
+2709,52502647,New South Wales
+2710,52503386,Queensland
+2711,52503387,Queensland
+2712,52504386,New South Wales
+2713,52505002,New South Wales
+2714,52505834,New South Wales
+2715,52506673,New South Wales
+2716,52506812,New South Wales
+2717,52507657,Queensland
+2718,52510258,Australian Capital Territory
+2719,52514260,Australian Capital Territory
+2720,52516894,Victoria
+2721,52519583,New South Wales
+2722,52521606,New South Wales
+2723,52524453,New South Wales
+2724,52527360,Victoria
+2725,52531272,Queensland
+2726,52533201,Victoria
+2727,52537329,New South Wales
+2728,52538666,Western Australia
+2729,52544346,Queensland
+2730,52548703,Australian Capital Territory
+2731,52552486,Victoria
+2732,52553376,Victoria
+2733,52554121,Western Australia
+2734,52556766,New South Wales
+2735,52563398,Victoria
+2736,52567499,Victoria
+2737,52569746,New South Wales
+2738,52570854,Victoria
+2739,52576655,New South Wales
+2740,52578872,Victoria
+2741,52579298,Queensland
+2742,52582530,Victoria
+2743,52582700,Queensland
+2744,52587140,Victoria
+2745,52589876,New South Wales
+2746,52604666,Victoria
+2747,52607467,Australian Capital Territory
+2748,52608764,Australian Capital Territory
+2749,52609378,New South Wales
+2750,52609447,New South Wales
+2751,52631678,Western Australia
+2752,52634304,New South Wales
+2753,52634475,Queensland
+2754,52634476,Queensland
+2755,52634685,Victoria
+2756,52637569,New South Wales
+2757,52639848,Victoria
+2758,52640677,New South Wales
+2759,52640758,New South Wales
+2760,52644599,New South Wales
+2761,52655838,New South Wales
+2762,52657755,Victoria
+2763,52658458,New South Wales
+2764,52659800,New South Wales
+2765,52660002,New South Wales
+2766,52661266,New South Wales
+2767,52661344,Australian Capital Territory
+2768,52661813,Victoria
+2769,52666773,Victoria
+2770,52666898,Victoria
+2771,52667935,New South Wales
+2772,52669255,Overseas
+2773,52669547,Queensland
+2774,52671964,Australian Capital Territory
+2775,52676161,Victoria
+2776,52679086,Victoria
+2777,52693435,Victoria
+2778,52696025,Victoria
+2779,52696033,New South Wales
+2780,52696255,Victoria
+2781,52696473,New South Wales
+2782,52701060,New South Wales
+2783,52707563,New South Wales
+2784,52710466,Victoria
+2785,52712823,New South Wales
+2786,52718956,New South Wales
+2787,52719838,Victoria
+2788,52719940,New South Wales
+2789,52719971,Queensland
+2790,52720658,Victoria
+2791,52723942,New South Wales
+2792,52726241,New South Wales
+2793,52727857,New South Wales
+2794,52728010,Queensland
+2795,52728011,Queensland
+2796,52728568,New South Wales
+2797,52730921,New South Wales
+2798,52736979,South Australia
+2799,52745397,Western Australia
+2800,52745514,Queensland
+2801,52750055,Queensland
+2802,52753223,Victoria
+2803,52755370,New South Wales
+2804,52759063,Victoria
+2805,52764106,New South Wales
+2806,52764107,New South Wales
+2807,52764491,Victoria
+2808,52765740,New South Wales
+2809,52767042,Victoria
+2810,52770127,New South Wales
+2811,52775077,New South Wales
+2812,52775988,Victoria
+2813,52780744,New South Wales
+2814,52785869,New South Wales
+2815,52789354,Western Australia
+2816,52797525,Queensland
+2817,52802608,Victoria
+2818,52802609,Victoria
+2819,52806574,Western Australia
+2820,52806700,New South Wales
+2821,52816448,New South Wales
+2822,52816449,Victoria
+2823,52822172,New South Wales
+2824,52822670,New South Wales
+2825,52823308,New South Wales
+2826,52823337,Victoria
+2827,52823506,Queensland
+2828,52823507,Queensland
+2829,52826280,New South Wales
+2830,52831009,South Australia
+2831,52844797,Australian Capital Territory
+2832,52846430,Victoria
+2833,52846494,New South Wales
+2834,52846581,Australian Capital Territory
+2835,52855853,Queensland
+2836,52859505,New South Wales
+2837,52866411,Australian Capital Territory
+2838,52866413,Australian Capital Territory
+2839,52868419,South Australia
+2840,52878610,Queensland
+2841,52880731,New South Wales
+2842,52881471,Victoria
+2843,52882439,Australian Capital Territory
+2844,52896350,Australian Capital Territory
+2845,52896351,Australian Capital Territory
+2846,52896536,Victoria
+2847,52896537,Victoria
+2848,52898520,Queensland
+2849,52899038,Queensland
+2850,52900449,New South Wales
+2851,52903296,New South Wales
+2852,52903494,New South Wales
+2853,52903504,Victoria
+2854,52904581,New South Wales
+2855,52904582,New South Wales
+2856,52905493,New South Wales
