@@ -1,22 +1,22 @@
 job_title
 -
-job_id INT PK
-job_title VARCHAR PK
-job_role
+jobId INT PK
+job_title VARCHAR 
+job_role VARCHAR
 
 state
 -
-job_id INT FK >- job_title.job_id
+jobId INT FK >- job_title.jobId
 state VARCHAR
 
 programming_languages
 -
-job_id SERIAL FK >- job_title.job_id
+jobId INT FK >- job_title.jobId
 R INT	
 Matlab INT	
 Python INT	
 Javascript INT	
-SQL_Spark INT
+SQL INT
 Tableau INT
 C INT
 Java INT
@@ -24,7 +24,7 @@ Ruby INT
 
 work_type
 -
-job_id SERIAL PK FK >- job_title.job_id
+jobId INT PK FK >- job_title.jobId
 Industry VARCHAR
 Departments VARCHAR
-work_typ VARCHAR
+work_type VARCHAR
