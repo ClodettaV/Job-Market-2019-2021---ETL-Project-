@@ -1,8 +1,8 @@
 job_title
 -
 jobId INT PK
-job_title VARCHAR 
-job_role VARCHAR
+jobTitle VARCHAR 
+jobRole VARCHAR
 
 state
 -
@@ -24,7 +24,7 @@ Ruby INT
 
 work_type
 -
-jobId INT PK FK >- job_title.jobId
+jobId INT FK >- job_title.jobId
 Industry VARCHAR
 Departments VARCHAR
 work_type VARCHAR
