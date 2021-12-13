@@ -137,11 +137,11 @@ You should see the following output:
 
 2. Select `Create task`
 
-![images/task_scheduler_1.png](images/task_scheduler_1.png)
+![images/task_scheduler_1.PNG](images/task_scheduler_1.PNG)
 
 3. Provide a name for the task 
 
-![images/task_scheduler_2.png](images/task_scheduler_2.png)
+![images/task_scheduler_2.PNG](images/task_scheduler_2.PNG)
 
 4. Select `Actions` > `New` 
 
@@ -154,15 +154,15 @@ You should see the following output:
     - Start in (optional): `<provide the path to the etl file>` 
         - Example: `C:\Users\Laurent\git\Project-2---ETL\scripts`
 
-![images/task_scheduler_3.png](images/task_scheduler_3.png)
+![images/task_scheduler_3.PNG](images/task_scheduler_3.PNG)
 
 6. Select `Triggers` 
 
-![images/task_scheduler_4.png](images/task_scheduler_4.png)
+![images/task_scheduler_4.PNG](images/task_scheduler_4.PNG)
 
 7. Provide details of when you would like the job to run 
 
-![images/task_scheduler_5.png](images/task_scheduler_5.png)
+![images/task_scheduler_5.PNG](images/task_scheduler_5.PNG)
 
 8. Click `OK` 
 </details>
