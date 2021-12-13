@@ -89,20 +89,23 @@ The required python libraries and version are
 - pandas==1.3.2
 - sqlalchemy==1.4.26
 - pytest==6.2.5
+- psycopg2
 
-Install python dependencies by performing:
 
-```
-pip install -r 
-```
 
 ## Running code locally 
 To run the ETL code on your computer, execute the following in your terminal: 
 
 ```
 cd scripts
-python -m jupyter nbconvert --to python scripts
-python scripts/etl_functions.py
+python -m jupyter nbconvert --to python job_role.ipynb
+python scripts/job_role.py
+python -m jupyter nbconvert --to python Programming_languages_tables.ipynb
+python scripts/Programming_languages_tables.py
+python -m jupyter nbconvert --to python State_and_work_type_tables.ipynb
+python scripts/State_and_work_type_tables.py
+
+
 ```
 
 ## Run unit tests 
@@ -128,9 +131,40 @@ You should see the following output:
 
 
 <details>
-<summary><strong> Cron (MacOS or Linux) </strong></summary>
-'''
-'''
+<summary><strong> Task Scheduler (Windows) </strong></summary>
+
+1. Open Task Scheduler on windows 
+
+2. Select `Create task`
+
+![images/task_scheduler_1.png](images/task_scheduler_1.png)
+
+3. Provide a name for the task 
+
+![images/task_scheduler_2.png](images/task_scheduler_2.png)
+
+4. Select `Actions` > `New` 
+
+
+5. Provide the following details, and click `OK`: 
+    - Program/script: `<provide path to your python.exe in your conda environment folder>`
+        - Example: `C:\Users\Laurent\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Anaconda3 (64-bit)\Jupyter Notebook (PythonData)`
+    - Add arguments (optional): `<provide the etl file>`
+        - Example: `job_role.py.py` 
+    - Start in (optional): `<provide the path to the etl file>` 
+        - Example: `C:\Users\Laurent\git\Project-2---ETL\scripts`
+
+![images/task_scheduler_3.png](images/task_scheduler_3.png)
+
+6. Select `Triggers` 
+
+![images/task_scheduler_4.png](images/task_scheduler_4.png)
+
+7. Provide details of when you would like the job to run 
+
+![images/task_scheduler_5.png](images/task_scheduler_5.png)
+
+8. Click `OK` 
 </details>
 
 # Contributors
