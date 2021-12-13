@@ -70,18 +70,27 @@ Usage
 The required python libraries and version are 
 
 	
-•	Python dependencies
-•	pandas==1.3.2
-	•	sqlalchemy==1.4.26
-	•	pytest==6.2.5
+## Python dependencies 
+-pandas==1.3.2
+-sqlalchemy==1.4.26
+-pytest==6.2.5
 
 Install python dependencies by performing:
-pip install -r 
-Running code locally
-Run unit tests
-Scheduling jobs
 
-**Contributors**
-@ClodettaV
-@Lau-518
-@MonikaSidhu1
+```
+pip install -r 
+```
+
+## Running code locally 
+## Run unit tests 
+
+## Scheduling jobs 
+
+
+<details>
+<summary><strong> Cron (MacOS or Linux) </strong></summary>
+# Contributors
+- [@ClodettaV](https://github.com/ClodettaV)
+- [@Lau](https://github.com/Lau)
+- [@MonikaSidhu1](https://github.com/MonikaSidhu1)
+
