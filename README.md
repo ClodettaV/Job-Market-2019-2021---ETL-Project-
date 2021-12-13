@@ -85,9 +85,10 @@ The required python libraries and version are
 
 	
 ## Python dependencies 
--pandas==1.3.2
--sqlalchemy==1.4.26
--pytest==6.2.5
+
+- pandas==1.3.2
+- sqlalchemy==1.4.26
+- pytest==6.2.5
 
 Install python dependencies by performing:
 
