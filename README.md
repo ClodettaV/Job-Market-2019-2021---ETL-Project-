@@ -15,9 +15,23 @@ basis and stores the data in a PostgreSQL Database.
 
 Unit tests have been performed to assure transformation and normalisation has been properly executed.
 
-**Repo structure**
+# Repo structure
 
-![image](https://user-images.githubusercontent.com/88511756/145743819-c50b7a81-1360-46fd-a1b6-ed8fe95be151.png)
+```
+data/                                       # the tables exported from Jupyter notebooks
+docs/                                       # the ERD code, the data definition language (DDL), counts of some of the tables
+images/                                     # the ERD diagram
+Resources/				    # Raw data
+scripts/    
+    |__ schema.sql                          # SQL code used to create the target tables 
+    |__ Job_role			    # the Jupiter notebook with data transformations on raw data 
+    |__ Programming languages tables.ipynb  # the Jupiter notebook with data transformations on raw data
+    |__ State and work_type tables.ipynb    # the Jupiter notebook with data transformations on raw data    
+    |__ test_etl_function.py                # pytest unit tests 
+    |__ etl_function.py              	    # custom user-generated transformation functions 
+README.md                                   # all you need to know is in here 
+
+```
 
 **ERD and Data Dictionary**
 
