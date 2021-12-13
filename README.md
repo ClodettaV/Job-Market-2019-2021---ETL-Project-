@@ -30,36 +30,40 @@ The ERD diagram was created using: https://app.quickdatabasediagrams.com/#/
 
 Below are the data definitions for the following tables:
 
-Job Title
-Column name	Definition
-JobId	The unique ID for the job
-jobTitle	The title of each job
-jobRole	Broader job title
+<b>`Job Title`</b>
+|Column name| Definition |
+|-|-|
+|jobId|The unique ID for the job|
+|jobTitle|The title of each job|
+|jobRole|Broader job title
 
-Programming languages
-Column name	Definition
-jobId	The unique ID for the job
-R	Programming language either required (1) or not(0) for each job
-Matlab	Programming language either required (1) or not(0) for each job
-Python	Programming language either required (1) or not(0) for each job
-Kavascript	Programming language either required (1) or not(0) for each job
-SQL	Programming language either required (1) or not(0) for each job
-Tableau	Programming language either required (1) or not(0) for each job
-C	Programming language either required (1) or not(0) for each job
-Java	Programming language either required (1) or not(0) for each job
-Ruby	Programming language either required (1) or not(0) for each job
+<b>`Programming languages`</b> 
+|Column name| Definition|
+|-|-|
+|jobId|The unique ID for the job|
+|R|Programming language either required (1) or not(0) for each job|
+|Matlab|Programming language either required (1) or not(0) for each job|
+|Python|Programming language either required (1) or not(0) for each job|
+|Kavascript|Programming language either required (1) or not(0) for each job|
+|SQL|Programming language either required (1) or not(0) for each job|
+|Tableau|Programming language either required (1) or not(0) for each job|
+|C|Programming language either required (1) or not(0) for each job|
+|Java|Programming language either required (1) or not(0) for each job|
+|Ruby|Programming language either required (1) or not(0) for each job|
 
-State
-Column name	Definition
-jobId	The unique ID for the job
-state	The state where the job is based 
+<b>`State`</b>  
+|Column name| Definition|
+|-|-|
+|jobId|The unique ID for the job|
+|state|The state where the job is based |
 
-Work Type
-Column name	Definition
-jobId	The unique ID for the job
-Industry	The renamed job classification
-Departments	The renamed job sub-classification
-Works_type	The type of contract
+<b>`Work Type`</b>  
+|Column name| Definition|
+|-|-|
+|jobId|The unique ID for the job|
+|Industry|The renamed job classification|
+|Departments|The renamed job sub-classification|
+|Works_type|The type of contract|
 
 
 Usage
