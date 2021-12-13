@@ -89,6 +89,8 @@ pip install -r
 
 <details>
 <summary><strong> Cron (MacOS or Linux) </strong></summary>
+'''
+'''
 # Contributors
 - [@ClodettaV](https://github.com/ClodettaV)
 - [@Lau](https://github.com/Lau)
