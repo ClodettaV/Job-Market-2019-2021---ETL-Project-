@@ -96,7 +96,32 @@ pip install -r
 ```
 
 ## Running code locally 
+To run the ETL code on your computer, execute the following in your terminal: 
+
+```
+cd scripts
+python -m jupyter nbconvert --to python scripts
+python scripts/etl_functions.py
+```
+
 ## Run unit tests 
+To run the unit tests on your computer, execute the following in your terminal: 
+
+```
+pytest scripts
+```
+
+You should see the following output: 
+
+```
+========================================================================== warnings summary =========================================================================== 
+..\..\anaconda3\lib\site-packages\pyreadline\py3k_compat.py:8
+  C:\Users\Laurent\anaconda3\lib\site-packages\pyreadline\py3k_compat.py:8: DeprecationWarning: Using or importing the ABCs from 'collections' instead of from 'collections.abc' is deprecated since Python 3.3, and in 3.9 it will stop working
+    return isinstance(x, collections.Callable)
+
+-- Docs: https://docs.pytest.org/en/stable/warnings.html
+==================================================================== 1 passed, 1 warning in 0.55s ===================================================================== 
+```
 
 ## Scheduling jobs 
 
