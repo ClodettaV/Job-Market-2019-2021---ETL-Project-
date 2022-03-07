@@ -58,7 +58,7 @@ Below are the data definitions for the following tables:
 |R|Programming language either required (1) or not(0) for each job|
 |Matlab|Programming language either required (1) or not(0) for each job|
 |Python|Programming language either required (1) or not(0) for each job|
-|Kavascript|Programming language either required (1) or not(0) for each job|
+|JavaScript|Programming language either required (1) or not(0) for each job|
 |SQL|Programming language either required (1) or not(0) for each job|
 |Tableau|Programming language either required (1) or not(0) for each job|
 |C|Programming language either required (1) or not(0) for each job|
