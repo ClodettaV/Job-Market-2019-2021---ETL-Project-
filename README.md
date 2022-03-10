@@ -169,6 +169,6 @@ You should see the following output:
 
 # Contributors
 - [@ClodettaV](https://github.com/ClodettaV)
-- [@Lau](https://github.com/Lau)
+- [@Lau-518](https://github.com/Lau-518)
 - [@MonikaSidhu1](https://github.com/MonikaSidhu1)
 
